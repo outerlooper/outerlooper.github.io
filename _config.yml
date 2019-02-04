@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Outerlooper"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/steampunk-headphones.jpg"
   bio              : "Crucial Minutiae"
   location         : "Planet Earth"
   email            :

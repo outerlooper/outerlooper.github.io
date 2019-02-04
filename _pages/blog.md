@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-permalink: "/blog"
+permalink: "/blog/"
 header:
     image: "/assets/images/image-4.png"
 ---

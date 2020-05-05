@@ -1,39 +1,11 @@
 # outerlooper.github.io
 
-## Project setup
-```
-npm install
-```
+## Hello, World!
+Welcome and thanks for visiting.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Outerlooper on the InterWebs
+See [Instagram](https://www.instagram.com/outerlooper/)
+See [Facebook](https://www.facebook.com/outerlooper)
+See [WordPress](https://outerlooper.wordpress.com/)
+See [BlogSpot](http://outerlooper.blogspot.com/)
+See [GitHub](https://github.com/outerlooper)

@@ -1,4 +1,4 @@
-# outerlooper.com @ outerlooper.github.io
+# outerlooper.github.io
 
 ## Hello, World!
 Welcome and thanks for visiting.

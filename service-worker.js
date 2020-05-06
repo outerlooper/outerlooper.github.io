@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/outerlooper.github.io/precache-manifest.97b5bb3db867c3871d4bd73d75064b7b.js"
+  "/outerlooper.github.io/precache-manifest.0ebca7c4fea64eff8d30c4873fa81ec5.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,0 +1,31 @@
+#area-contacts {
+    height: auto;
+    min-height: auto;
+    
+    .contact-icon-buttons {
+        a {
+            color: $white;
+            display: inline-block;
+            padding: 11px 11px;
+            
+
+            i {
+                font-size: 151%;
+            }
+
+            span {
+                display: inline-block;
+                font-size: .88em;
+                padding: 2px 0 0 0;
+                vertical-align: top;
+            }
+
+            &:active,
+            &:hover,
+            &:focus {
+                //color: magenta;
+                text-shadow:1px 1px 15px magenta, 1px 1px 15px #ccc;
+            }
+        }
+    }
+}

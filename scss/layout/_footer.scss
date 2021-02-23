@@ -1,0 +1,30 @@
+#footer {
+    color: #fff;
+    display: block;
+    font-size: 0.65em;
+    position: fixed;
+    right: -500px;
+    bottom: 15px;
+    transform: rotate(-90deg);
+    transform-origin: bottom left;
+    text-transform: uppercase;
+    text-align: left;
+    width: 501px;
+
+    span {
+        display: inline-block;
+        padding: 0 7px;
+    }
+
+    a {
+        color: #fff;
+        text-decoration: none;
+
+        &:hover,
+        &:active,
+        &:focus {
+            color: magenta;
+            text-decoration: underline;
+        }
+    }
+}

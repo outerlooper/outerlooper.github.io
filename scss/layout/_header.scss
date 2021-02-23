@@ -1,0 +1,94 @@
+#header {
+    width: 500px;
+    display: block;
+    position: fixed;
+    left: 0px;
+    top: -22px;
+    transform: rotate(90deg);
+    transform-origin: bottom left;
+    text-align: left;
+    text-transform: uppercase;
+    z-index: 777;
+
+    -webkit-transition: top left ease;
+        -moz-transition: top left ease;
+         -o-transition: top left ease;
+            transition: top left ease;
+
+    h1,
+    &.header-top h1 {
+        color: #fff;
+        display: inline-block;
+        font-size: 2.222rem;
+        line-height: normal;
+        margin: 0 11px 0 0;
+        padding: 0;
+
+        -webkit-transition: font-size .5s;
+        -moz-transition: font-size .5s;
+         -o-transition: font-size .5s;
+            transition: font-size .5s;
+    }
+
+    p,
+    &.header-top p {
+        color: #fff;
+        display: inline-block;
+        font-size: .888rem;
+        line-height: normal;
+        margin: 0;
+        padding: 0;
+
+        -webkit-transition: font-size .5s;
+        -moz-transition: font-size .5s;
+         -o-transition: font-size .5s;
+            transition: font-size .5s;
+    }
+
+    &.header-scroll {
+        left: 0px;
+        top: -10px;
+
+        -webkit-transition: top left ease;
+        -moz-transition: top left ease;
+         -o-transition: top left ease;
+            transition: top left ease;
+
+        h1 {
+            font-size: 1.111rem;
+        }
+        p {
+            font-size: .777rem;
+        }
+    }
+}
+
+@media only screen and (min-width: 963px) {
+    #header {
+        left: 10px;
+        top: 0px;
+        
+
+        h1,
+        &.header-top h1 {
+            font-size: 2.639rem; 
+        }
+
+        p,
+        &.header-top p {
+            font-size: 1.111rem;
+        }
+
+        &.header-scroll {
+            left: 8px;
+            top: 0px;
+
+            h1 {
+                font-size: 2.222rem;
+            }
+            p {
+                font-size: 1.111rem;
+            }
+        }
+    }
+}

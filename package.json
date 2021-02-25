@@ -28,6 +28,6 @@
     "node-sass": "^5.0.0",
     "postcss": "^8.2.6",
     "utf-8-validate": "^5.0.4",
-    "yargs-parser": ">=5.0.0-security.0"
+    "yargs-parser": ">=13.1.2"
   }
 }

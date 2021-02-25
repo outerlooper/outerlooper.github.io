@@ -9,22 +9,40 @@ const sass = require('gulp-sass');
 const rename = require('gulp-rename');
 const browserSync = require('browser-sync').create();
 
-const imgSrc = './src/images/**/*';
-const fontSrc = './src/fonts/**/*';
-const venSrc = './src/vendor/**/*';
-const cssSrc = './src/scss/**/*.scss';
+const imgSrc = './assets/images/**/*';
+const fontSrc = './assets/fonts/**/*';
+const venSrc = './assets/vendor/**/*';
+const cssSrc = './assets/scss/**/*.scss';
 const jsSrc = [
-  './src/js/c.js',
-  './src/js/b.js',
-  './src/js/a.js',
-  './src/js/**/*.js'
+  './assets/scripts/c.js',
+  './assets/scripts/b.js',
+  './assets/scripts/a.js',
+  './assets/scripts/**/*.js'
 ];
 
-const imgDest = './dist/images';
-const fontDest = './dist/fonts';
-const venDest = './dist/vendor';
-const cssDest = './dist/css';
-const jsDest = './dist/js';
+const imgDest = './dist/assets/images';
+const fontDest = './dist/assets/fonts';
+const venDest = './dist/assets/vendor';
+const cssDest = './dist/assets/css';
+const jsDest = './dist/assets/js';
+const rootDest = './dist/';
+
+const cssDev = './assets/css/'; // local dev build
+const jsDev = './assets/js/'; // local dev build
+
+function html() {
+  return gulp.src(['./README.md', './index.html'])
+    .pipe(gulp.dest(rootDest));
+}
+
+function icons() {
+  return gulp.src([
+    './*.ico',
+    './*.png'
+  ])
+    .pipe(imagemin())
+    .pipe(gulp.dest(rootDest));
+}
 
 function images() {
   return gulp.src(imgSrc)
@@ -53,6 +71,7 @@ function css() {
     .pipe(postcss([autoprefixer()]))
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest(cssDest))
+    .pipe(gulp.dest(cssDev))
     .pipe(browserSync.stream());
 }
 
@@ -68,6 +87,7 @@ function cssMin() {
     .pipe(rename({ suffix: '.min' }))
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest(cssDest))
+    .pipe(gulp.dest(cssDev))
     .pipe(browserSync.stream());
 }
 
@@ -77,6 +97,7 @@ function js() {
     .pipe(concat('outerlooper.js'))
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest(jsDest))
+    .pipe(gulp.dest(jsDev))
     .pipe(browserSync.stream());
 }
 
@@ -88,6 +109,7 @@ function jsMin() {
     .pipe(rename({ suffix: '.min' }))
     .pipe(sourcemaps.write('.'))
     .pipe(gulp.dest(jsDest))
+    .pipe(gulp.dest(jsDev))
     .pipe(browserSync.stream());
 }
 
@@ -99,9 +121,11 @@ function watch() {
   });
   gulp.watch(cssSrc, gulp.series(css, cssMin));
   gulp.watch(jsSrc, gulp.series(js, jsMin));
-  gulp.watch('./**/*.html').on('change', browserSync.reload);
+  gulp.watch('./*.html').on('change', browserSync.reload);
 }
 
+exports.html = html; // html pages
+exports.icons = icons; // icons in root
 exports.images = images; // graphics
 exports.fonts = fonts; // font icons
 exports.vendor = vendor; // vendor files
@@ -111,4 +135,6 @@ exports.js = js; // concat js
 exports.jsMin = jsMin; // minify js
 exports.watch = watch; // rowserSync
 
-exports.default = gulp.series(gulp.parallel(images, fonts, vendor, css, cssMin, js, jsMin), watch);
+exports.default = gulp.series(gulp.parallel(
+    html, icons, images, fonts, vendor, css, cssMin, js, jsMin
+    ), watch);

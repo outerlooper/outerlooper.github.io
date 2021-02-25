@@ -31,7 +31,7 @@ const cssDev = './assets/css/'; // local dev build
 const jsDev = './assets/js/'; // local dev build
 
 function html() {
-  return gulp.src(['./README.md', './index.html'])
+  return gulp.src(['./CNAME', './README.md', './index.html'])
     .pipe(gulp.dest(rootDest));
 }
 

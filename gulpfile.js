@@ -9,6 +9,11 @@ const sass = require('gulp-sass');
 const rename = require('gulp-rename');
 const browserSync = require('browser-sync').create();
 
+const htmlSrc = [
+  './CNAME', 
+  './README.md', 
+  './manifest.json',
+  './index.html'];
 const imgSrc = './assets/images/**/*';
 const fontSrc = './assets/fonts/**/*';
 const venSrc = './assets/vendor/**/*';
@@ -31,7 +36,7 @@ const cssDev = './assets/css/'; // local dev build
 const jsDev = './assets/js/'; // local dev build
 
 function html() {
-  return gulp.src(['./CNAME', './README.md', './index.html'])
+  return gulp.src(htmlSrc)
     .pipe(gulp.dest(rootDest));
 }
 

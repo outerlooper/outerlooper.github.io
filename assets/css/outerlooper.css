@@ -157,19 +157,19 @@ h1 a:hover, h1 a:focus, h1 a:active, h2 a:hover, h2 a:focus, h2 a:active {
 
 .stars {
   z-index: -3;
-  background: #000 url("/img/stars/stars.png") repeat top center;
+  background: #000 url("../images/stars/stars.png") repeat top center;
 }
 
 .twinkling {
   z-index: -2;
-  background: transparent url("/img/stars/twinkling.png") repeat top center;
+  background: transparent url("../images/stars/twinkling.png") repeat top center;
   -webkit-animation: move-twink-back 200s linear infinite;
           animation: move-twink-back 200s linear infinite;
 }
 
 .clouds {
   z-index: -1;
-  background: transparent url("/img/stars/clouds.png") repeat top center;
+  background: transparent url("../images/stars/clouds.png") repeat top center;
   -webkit-animation: move-clouds-back 200s linear infinite;
           animation: move-clouds-back 200s linear infinite;
 }

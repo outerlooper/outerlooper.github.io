@@ -1,5 +1,8 @@
 *{box-sizing: border-box}
 
+// font-family: 'Roboto', sans-serif;
+// font-family: 'Roboto Condensed', sans-serif;
+
 html {
     background: #000;
 }
@@ -32,6 +35,8 @@ body {
 
 h1, h2 {
     color: #fff;
+    font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif;
+    font-weight: 700;
     text-transform: uppercase;
 
     a {
@@ -45,6 +50,22 @@ h1, h2 {
             border-bottom: 1px dashed magenta;
         }
     }
+}
+
+
+
+.wrapper {
+    margin: 0 auto;
+    padding: 0 53px;
+
+    @media only screen and (min-width: 963px) {
+        padding: 0 69px;
+    }
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1111px;
 }
 
 // #app {

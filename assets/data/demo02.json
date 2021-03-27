@@ -1,0 +1,8 @@
+{
+    "subject": [
+        "The subject field is required."
+    ],
+    "message": [
+        "The message field is required."
+    ]
+}

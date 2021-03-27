@@ -60,6 +60,7 @@
 
 html {
   background: #000;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -111,7 +112,7 @@ h1 a:hover, h1 a:focus, h1 a:active, h2 a:hover, h2 a:focus, h2 a:active {
 
 .container {
   margin: 0 auto;
-  max-width: 1111px;
+  max-width: 963px;
 }
 
 #header {
@@ -430,11 +431,16 @@ h1 a:hover, h1 a:focus, h1 a:active, h2 a:hover, h2 a:focus, h2 a:active {
   min-height: 100vh;
   width: 100%;
   overflow: hidden;
+  position: relative;
 }
 
 #masthead img {
+  margin: 0 auto;
   margin-left: -50%;
+  position: relative;
+  top: 0;
   width: 200%;
+  max-width: 200%;
 }
 
 @media only screen and (min-width: 777px) {
@@ -444,6 +450,7 @@ h1 a:hover, h1 a:focus, h1 a:active, h2 a:hover, h2 a:focus, h2 a:active {
   #masthead img {
     margin-left: -15%;
     width: 133%;
+    max-width: 133%;
   }
 }
 
@@ -462,8 +469,15 @@ h1 a:hover, h1 a:focus, h1 a:active, h2 a:hover, h2 a:focus, h2 a:active {
   text-align: right;
   position: fixed;
   top: 135px;
+  top: 33px;
   right: 0;
   z-index: 1;
+}
+
+@media only screen and (min-width: 963px) {
+  #nav-works {
+    top: 111px;
+  }
 }
 
 #nav-works.nav-works-top a {
@@ -523,6 +537,7 @@ h1 a:hover, h1 a:focus, h1 a:active, h2 a:hover, h2 a:focus, h2 a:active {
 
 #nav-works a:hover, #nav-works a:focus {
   background-color: rgba(0, 0, 0, 0.8);
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.8) 0%, rgba(255, 0, 255, 0.35) 100%);
   text-decoration: none;
   text-shadow: 1px 1px 15px magenta, 1px 1px 15px #ccc;
 }
@@ -536,6 +551,17 @@ h1 a:hover, h1 a:focus, h1 a:active, h2 a:hover, h2 a:focus, h2 a:active {
 #nav-works a:hover .separator, #nav-works a:focus .separator {
   width: 0.3em;
   transition-delay: unset;
+}
+
+#works .wrapper {
+  padding-top: 33px;
+  padding-bottom: 33px;
+}
+
+#works .works-category-title {
+  font-size: 1.53rem;
+  font-weight: 500;
+  text-align: center;
 }
 
 #area-contacts {

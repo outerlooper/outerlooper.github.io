@@ -2,8 +2,13 @@
     text-align: right;
     position: fixed;
     top: 135px;
+    top: 33px;
     right: 0;
     z-index: 1;
+
+    @media only screen and (min-width: 963px) {
+        top: 111px;
+    }
 
     // fdde-out mixin
     // *applied to links for keyboard nav
@@ -29,6 +34,8 @@
         }
     }
 
+    // flyout buttons
+    // kudos: https://codesandbox.io/s/funny-chatelet-p4bji?file=/src/App.vue:499-542
     a {
         background-color: transparent;
         border-top-left-radius: 3px;
@@ -66,6 +73,7 @@
         &:hover,
         &:focus {
             background-color: rgba(0,0,0,0.8);
+            background: linear-gradient(90deg, rgba(0,0,0,0.80) 0%, rgba(255,0,255,0.35) 100%);
             text-decoration: none;
             text-shadow: 1px 1px 15px magenta, 1px 1px 15px #ccc;
 

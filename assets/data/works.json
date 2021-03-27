@@ -1,0 +1,52 @@
+[
+    {
+        "title" : "Demo 1",
+        "category" : "web", 
+        "teaser" : "Such a tease.",
+        "description" : "Let me get descriptive here in things that I say.",
+        "thumbnail" : "photo-01-thm.jpg",
+        "image" : "photo-01.jpg"
+    },
+    {
+        "title" : "Demo 2",
+        "category" : "photography", 
+        "teaser" : "Such a tease.",
+        "description" : "Let me get descriptive here in things that I say.",
+        "thumbnail" : "photo-02-thm.jpg",
+        "image" : "photo-02.jpg"
+    },
+    {
+        "title" : "Demo 3",
+        "category" : "design", 
+        "teaser" : "Such a tease.",
+        "description" : "Let me get descriptive here in things that I say.",
+        "thumbnail" : "photo-03-thm.jpg",
+        "image" : "photo-03.jpg"
+    },
+    {
+        "title" : "Demo 4",
+        "category" : "web", 
+        "teaser" : "Such a tease.",
+        "description" : "Let me get descriptive here in things that I say.",
+        "thumbnail" : "photo-04-thm.jpg",
+        "image" : "photo-04.jpg"
+    }
+    ,
+    {
+        "title" : "Demo 5",
+        "category" : "web", 
+        "teaser" : "Such a tease.",
+        "description" : "Let me get descriptive here in things that I say.",
+        "thumbnail" : "photo-05-thm.jpg",
+        "image" : "photo-05.jpg"
+    }
+    ,
+    {
+        "title" : "Demo 6",
+        "category" : "web", 
+        "teaser" : "Such a tease.",
+        "description" : "Let me get descriptive here in things that I say.",
+        "thumbnail" : "photo-06-thm.jpg",
+        "image" : "photo-06.jpg"
+    }
+]

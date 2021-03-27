@@ -13,6 +13,6 @@
         }
     }, { threshold: [0] });
     
-    observer.observe(document.querySelector("#works-grid"));
+    observer.observe(document.querySelector("#works"));
 
 })();

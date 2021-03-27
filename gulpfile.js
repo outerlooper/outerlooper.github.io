@@ -19,9 +19,9 @@ const fontSrc = './assets/fonts/**/*';
 const venSrc = './assets/vendor/**/*';
 const cssSrc = './assets/scss/**/*.scss';
 const jsSrc = [
-  './assets/scripts/c.js',
-  './assets/scripts/b.js',
-  './assets/scripts/a.js',
+  //'./assets/scripts/c.js',
+  //'./assets/scripts/b.js',
+  //'./assets/scripts/a.js',
   './assets/scripts/**/*.js'
 ];
 

@@ -1,0 +1,17 @@
+// Ten Bar Transition
+
+.transition__ten-bar {
+    position:absolute;
+    left:0;
+    bottom:0;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+
+    .bar {
+        background-color: white;
+        position: relative;
+        height:100vh;
+        width:10%;
+    }
+}

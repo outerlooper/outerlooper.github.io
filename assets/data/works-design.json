@@ -6,7 +6,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/1.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/1.jpg",
+        "caption" : ""
     },
     {
         "title" : "2",
@@ -15,7 +16,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/2.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/2.jpg",
+        "caption" : ""
     },
     {
         "title" : "3",
@@ -24,7 +26,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/3.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/3.jpg",
+        "caption" : ""
     },
     {
         "title" : "4",
@@ -33,7 +36,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/4.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/4.jpg",
+        "caption" : ""
     },
     {
         "title" : "5",
@@ -42,7 +46,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/5.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/5.jpg",
+        "caption" : ""
     },
     {
         "title" : "6",
@@ -51,7 +56,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/6.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/6.jpg",
+        "caption" : ""
     },
     {
         "title" : "7",
@@ -60,7 +66,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/7.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/7.jpg",
+        "caption" : ""
     },
     {
         "title" : "8",
@@ -69,7 +76,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/8.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/8.jpg",
+        "caption" : ""
     },
     {
         "title" : "9",
@@ -78,7 +86,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/9.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/9.jpg",
+        "caption" : ""
     },
     {
         "title" : "10",
@@ -87,7 +96,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/10.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/10.jpg",
+        "caption" : ""
     },
     {
         "title" : "11",
@@ -96,7 +106,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/11.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/11.jpg",
+        "caption" : ""
     },
     {
         "title" : "12",
@@ -105,7 +116,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/12.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/12.jpg",
+        "caption" : ""
     },
     {
         "title" : "13",
@@ -114,7 +126,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/13.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/13.jpg",
+        "caption" : ""
     },
     {
         "title" : "14",
@@ -123,7 +136,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/14.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/14.jpg",
+        "caption" : ""
     },
     {
         "title" : "15",
@@ -132,7 +146,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/15.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/15.jpg",
+        "caption" : ""
     },
     {
         "title" : "16",
@@ -141,7 +156,7 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/16.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/16.jpg"
     },
     {
         "title" : "17",
@@ -150,7 +165,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/17.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/17.jpg",
+        "caption" : ""
     },
     {
         "title" : "18",
@@ -159,7 +175,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/18.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/18.jpg",
+        "caption" : ""
     },
     {
         "title" : "19",
@@ -168,7 +185,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/19.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/19.jpg",
+        "caption" : ""
     },
     {
         "title" : "20",
@@ -177,7 +195,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/20.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/20.jpg",
+        "caption" : ""
     },
     {
         "title" : "21",
@@ -186,7 +205,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/21.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/21.jpg",
+        "caption" : ""
     },
     {
         "title" : "22",
@@ -195,7 +215,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/22.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/22.jpg",
+        "caption" : ""
     },
     {
         "title" : "23",
@@ -204,7 +225,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/23.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/23.jpg",
+        "caption" : ""
     },
     {
         "title" : "24",
@@ -213,7 +235,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/24.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/24.jpg",
+        "caption" : ""
     },
     {
         "title" : "25",
@@ -222,7 +245,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/25.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/25.jpg",
+        "caption" : ""
     },
     {
         "title" : "26",
@@ -231,7 +255,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/26.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/26.jpg",
+        "caption" : ""
     },
     {
         "title" : "27",
@@ -240,7 +265,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/27.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/27.jpg",
+        "caption" : ""
     },
     {
         "title" : "28",
@@ -249,7 +275,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/28.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/28.jpg",
+        "caption" : ""
     },
     {
         "title" : "29",
@@ -258,7 +285,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/29.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/29.jpg",
+        "caption" : ""
     },
     {
         "title" : "30",
@@ -267,7 +295,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/30.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/30.jpg",
+        "caption" : ""
     },
     {
         "title" : "31",
@@ -276,7 +305,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/31.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/31.jpg",
+        "caption" : ""
     },
     {
         "title" : "32",
@@ -285,6 +315,7 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/design/32.jpg",
-        "image" : ""
+        "image" : "assets/images/works/design/32.jpg",
+        "caption" : ""
     }
 ]

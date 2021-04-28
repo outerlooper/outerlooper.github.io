@@ -5,6 +5,7 @@
     top: 33px;
     right: 0;
     z-index: 1;
+    display: none;
 
     @media only screen and (min-width: 963px) {
         top: 111px;
@@ -44,9 +45,11 @@
         display: block;
         padding: 6px 6px 6px 12px;
         transition: background-color 0.5s ease;
+        
 
         i {
-            font-size: 1.35em;
+            font-size: 24px;
+            margin-right: 12px;
         }
 
         .label {
@@ -56,6 +59,9 @@
             margin-right: 0;
             white-space: nowrap;
             vertical-align: middle;
+            border-bottom: 1px solid #fff;
+            text-transform: uppercase;
+            font-size: .88em;
             transition: max-width 0.5s;
         }
 
@@ -73,13 +79,14 @@
         &:hover,
         &:focus {
             background-color: rgba(0,0,0,0.8);
-            background: linear-gradient(90deg, rgba(0,0,0,0.80) 0%, rgba(255,0,255,0.35) 100%);
+            //ackground: linear-gradient(90deg, rgba(0,0,0,0.80) 0%, rgba(255,0,255,0.35) 100%);
+            background: linear-gradient(45deg, rgba(0,0,0,0.80) 0%, rgba(0,0,0,0.1) 100%);
             text-decoration: none;
             text-shadow: 1px 1px 15px magenta, 1px 1px 15px #ccc;
 
             .label {
                 max-width: 333px;
-                margin-right: 33px;
+                padding-right: 33px;
                 transition-delay: 0.1s;
             }
 

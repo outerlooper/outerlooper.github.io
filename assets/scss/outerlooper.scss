@@ -14,24 +14,29 @@
 @import "app-mixins";
 
 // Layout
-@import 'layout/base';
 @import 'layout/app';
 @import 'layout/header';
 @import 'layout/footer';
-@import 'layout/stars';
+@import 'layout/stars-clouds';
 @import 'layout/moon';
 @import 'layout/section';
 @import 'layout/masthead';
 @import 'layout/nav-works';
 
+// Transitions
+@import 'layout/transitions/five-bar';
+@import 'layout/transitions/ten-bar';
+
 // Content
+@import 'content/audio-controller';
+@import 'content/jukebox';
+@import 'content/hello';
+@import 'content/tree';
+@import 'content/paper-plane';
+@import 'content/clouds';
+@import 'content/sky';
+@import 'content/flower-of-life';
+@import 'content/ink-splash-video';
+@import 'content/spiral-binary';
 @import 'content/works';
 @import 'content/contacts';
-// @import 'content/about';
-// @import 'content/drawing';
-// @import 'content/gallery';
-// @import 'content/hello';
-// @import 'content/music';
-// @import 'content/painting';
-// @import 'content/photography';
-// @import 'content/web';

@@ -6,7 +6,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/1.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/1.jpg",
+        "caption" : ""
     },
     {
         "title" : "2",
@@ -15,7 +16,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/2.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/2.jpg",
+        "caption" : ""
     },
     {
         "title" : "3",
@@ -24,7 +26,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/3.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/3.jpg",
+        "caption" : ""
     },
     {
         "title" : "4",
@@ -33,7 +36,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/4.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/4.jpg",
+        "caption" : ""
     },
     {
         "title" : "5",
@@ -42,7 +46,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/5.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/5.jpg",
+        "caption" : ""
     },
     {
         "title" : "6",
@@ -51,7 +56,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/6.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/6.jpg",
+        "caption" : ""
     },
     {
         "title" : "7",
@@ -60,7 +66,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/7.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/7.jpg",
+        "caption" : ""
     },
     {
         "title" : "8",
@@ -69,7 +76,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/8.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/8.jpg",
+        "caption" : ""
     },
     {
         "title" : "9",
@@ -78,7 +86,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/9.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/9.jpg",
+        "caption" : ""
     },
     {
         "title" : "10",
@@ -87,7 +96,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/10.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/10.jpg",
+        "caption" : ""
     },
     {
         "title" : "11",
@@ -96,7 +106,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/11.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/11.jpg",
+        "caption" : ""
     },
     {
         "title" : "12",
@@ -105,7 +116,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/12.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/12.jpg",
+        "caption" : ""
     },
     {
         "title" : "13",
@@ -114,7 +126,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/13.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/13.jpg",
+        "caption" : ""
     },
     {
         "title" : "14",
@@ -123,7 +136,8 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/14.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/14.jpg",
+        "caption" : ""
     },
     {
         "title" : "15",
@@ -132,6 +146,7 @@
         "teaser" : "",
         "description" : "",
         "thumbnail" : "assets/images/works/drawings/15.jpg",
-        "image" : ""
+        "image" : "assets/images/works/drawings/15.jpg",
+        "caption" : ""
     }
 ]

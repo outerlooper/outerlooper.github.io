@@ -1,0 +1,56 @@
+// Audio Controller
+
+
+// Fixed Position
+#audio-controller {
+    display: table;
+    position: fixed;
+    bottom:12px;
+    left: 35px; //18px;
+    z-index: 888;
+    background-color: red;
+    font-size: .9rem;
+
+    #audio-controller-icon {
+        font-size: 22px;
+        color: #777;
+        margin-left: -22px;
+    }
+
+    .audio-controller-dialog {
+        white-space: nowrap;
+        opacity: 0;
+        color: #777;
+
+        span {
+            display: inline-block;
+            position: absolute;
+            top: 8px;
+            left: 6px;
+    
+            b {
+                font-weight: normal;
+            }
+            // #audio-controller-status {
+            //     //display: inline-block;
+            //     //vertical-align: middle;
+            // }
+        }
+    }
+    
+    &:hover,
+    &:active {
+        #audio-controller-icon {
+            color: #fff;
+            text-shadow: 1px 1px 15px magenta, 1px 1px 15px #ccc;
+        }
+        // .audio-controller-dialog {
+        //     opacity: 1;
+        // }
+    }
+
+    
+
+    
+    
+}

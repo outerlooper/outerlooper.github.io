@@ -1,0 +1,102 @@
+// COOP ANIMATED TREE SVG
+// see ./assets/scss/layout/_masthead.scss for page positioning
+
+// Michael's Tree (Container)
+#michaels-tree {
+    width: 100%;
+    height: 100vh;
+    opacity: 0;
+
+    svg {
+        width: 100%;
+        height: 100vh;
+    }
+}
+
+// Ground
+.ground {
+    .ground_hump,
+    .ground_top,
+    .ground_middle,
+    .ground_bottom {
+        fill: #fff;
+    }
+}
+
+// Roots
+.roots {
+    .rooted {
+        fill: #fff;
+    }
+}
+
+// Tree
+.tree {
+    .tree_trunk-limbs-full {
+        fill: #fff;
+    }
+    .tree_trunk-base {
+        display: none;
+    }
+    .tree_branches {
+        display: none;
+    }
+}
+
+// Tire Swing
+.tireswing {
+    .tireswing_full {
+        display: none;
+    }
+    .tireswing_tire,
+    .tireswing_rope {
+        fill: #fff;
+    }
+}
+
+// Leaves
+// .leaves {
+//     .leaves_thin-right {
+//     }
+//     .leaves_thin-left {
+//     }
+//     .leaves_full-right {
+//     }
+//     .leaves_full-left {
+//     }
+// }
+
+
+// .tree-leaves {
+//     fill: #ec008c; // magenta
+//     fill: #000;
+//     fill: darken(seagreen, 11%); 
+//     // fill: #016601
+//     // fill:steelblue;
+// }
+
+// Acorn Clipping Path
+// .acorn-mask {
+    
+// }
+
+// Acorn
+.acorn {
+    .acorn_body {
+        fill: #fff;
+    }
+    .acorn_belly {
+        fill: #000;
+    }
+    .acorn_shadow {
+        fill: #888;
+    }
+    .acorn_highlight-right {
+        display: none;
+        fill: #888;
+    }
+    .acorn_highlight-left {
+        display: none;
+        fill: #888;
+    }
+}

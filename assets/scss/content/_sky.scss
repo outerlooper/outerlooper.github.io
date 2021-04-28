@@ -1,0 +1,37 @@
+// Intro Sunrise Sky
+
+#sky {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5353px;
+    background: linear-gradient(45deg, 
+        #fb0094, #00f, #0f0, #ff0, #f00,  
+        #fb0094, #00f, #0f0, #ff0, #f00);
+        background-size: 400%;
+    z-index: -5;
+    opacity: 0;
+    filter: blur(53px);
+    transition: 0.5s;
+
+    &.active {
+        animation: animate-sky-gradient 20s linear infinite;
+    } 
+    
+}
+@keyframes animate-sky-gradient
+{
+    0%
+    {
+        background-position: 0 0;
+    }
+    50%
+    {
+        background-position: 353% 0;
+    }
+    100%
+    {
+        background-position: 0 0;
+    }
+}

@@ -9,6 +9,7 @@
     text-align: left;
     text-transform: uppercase;
     z-index: 777;
+    display: none;
 
     -webkit-transition: top left ease;
         -moz-transition: top left ease;
@@ -38,6 +39,7 @@
         line-height: normal;
         margin: 0;
         padding: 0;
+        //display: none;
 
         -webkit-transition: font-size .5s;
         -moz-transition: font-size .5s;

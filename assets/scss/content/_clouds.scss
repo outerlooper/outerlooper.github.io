@@ -1,0 +1,47 @@
+// Animated Foreground Clouds
+// Kudos: https://youtu.be/FWW38GuIo7M
+
+.foreground-clouds 
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+
+    img 
+    {
+        position: absolute;
+        bottom: 0;
+        max-width: 100%;
+        //opacity: 0;
+        //transition: .5s;
+
+        opacity: 1;
+        animation: animate calc(8s * var(--i)) linear infinite;
+    }
+
+    
+    
+
+    // &.active {
+    //     img {
+            
+    //     }
+        
+
+    // }
+}
+
+@keyframes animate
+{
+    0%
+    {
+        transform: translateX(-100%);
+    }
+    100%
+    {
+        transform: translateX(100%);
+    }
+}

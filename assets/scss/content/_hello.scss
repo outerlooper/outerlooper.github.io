@@ -1,3 +1,54 @@
-#area-hello {
+.hello-world {
+    display: table;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    
 
+    #youtube-audio {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .chello {
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+        color: #666;
+    }
+
+    
+
+    .well-hello {
+        font-size: 2rem;
+        i {
+            font-style: normal;
+        }
+        opacity: 0;
+    }
+    .quote {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        // z-index: 11111111;
+        font-size: 1.81rem;
+        padding-top: 11px;
+        
+        small {
+            font-size: .8rem;
+        }
+    }
+    .follow-me {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 1.11rem;
+        padding-top: 111px;
+        i {
+            font-style: normal;
+        }
+    }
 }

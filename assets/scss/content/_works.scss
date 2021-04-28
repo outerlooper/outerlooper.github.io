@@ -1,15 +1,189 @@
 // The Works of Michael Cooper, Outerlooper
 
 #works {
+    
 
     .wrapper {
         padding-top: 33px;
         padding-bottom: 33px;
     }
 
-    .works-category-title {
+    .works-icon {
+        font-size: 35px;
+        text-align: center;
+        margin-top: -35px;
+
+        i {
+            color: #fff;
+            display: inline-block;
+            margin: 0 auto;
+            background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(255,0,255,0.69) 35%, rgba(0,0,0,1) 100%);
+            box-shadow: 0 0 53px 1px #f0f;
+            border: 3px double #fff;
+            border-radius: 100%;
+            padding: 12px;
+        }
+    }
+
+    .works-title {
         font-size: 1.53rem;
         font-weight: 500;
         text-align: center;
+        margin-top: 12px;
     }
+
+    .container {
+        border-radius: 11px;
+        border: 3px double white; //magenta;
+        //background-color: #ffffff;
+        background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(255,0,255,0.69) 35%, rgba(0,0,0,1) 100%);
+        box-shadow: 0 0 53px 1px #f0f;
+        margin: 0 auto;
+        padding: 44px 33px;
+        padding-top: 0;
+        //width: auto;
+        height: auto;
+    }
+
+    .works-grid {
+        img {
+            background: white;
+            padding: 2px;
+            //border: 2px solid white; //magenta;
+            transition: padding 0.3s ease;
+
+            &:hover,
+            &:focus {
+                box-shadow: 0 0 53px 1px #f0f;
+                border: 3px double black; //magenta;
+                padding: 8px;
+
+            }
+        }
+    }
+
+    .works-card {
+        color: #fff;
+
+        h2 {
+            text-align: center;
+            margin-top: 0;
+            padding-top: 0;
+        }
+
+        .works-card-feature {
+            text-align: center;
+        }
+        .works-card-feature-info {
+            padding: 26px 12px 12px 12px;
+            text-align: left;
+
+            h3, h4, h5 {
+                color: #fff;
+                text-align: left;
+                margin-bottom: 0;
+                padding-bottom: 0;
+            }
+
+            p {
+                color: #fff;
+                text-align: left;
+            }
+        }
+        
+    }
+
+    #works-web {
+        padding-top: 35px;
+        .works-icon i {
+            background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(0,165,255,.69) 35%, rgba(0,0,0,1) 100%);
+            box-shadow: 0 0 53px 1px #00a5ff;
+        }
+        .container {
+            background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(0,165,255,.69) 35%, rgba(0,0,0,1) 100%);
+            box-shadow: 0 0 53px 1px #00a5ff;
+        }
+    }
+
+    #works-design {
+        padding-top: 35px;
+        .works-icon i {
+            background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(0,255,0,.69) 35%, rgba(0,0,0,1) 100%);
+            box-shadow: 0 0 53px 1px #00ff00;
+        }
+        .container {
+            background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(0,255,0,.69) 35%, rgba(0,0,0,1) 100%);
+            box-shadow: 0 0 53px 1px #00ff00;
+        }
+        .works-grid {
+            img {
+                &:hover,
+                &:focus {
+                    box-shadow: 0 0 53px 1px #00ff00;
+                }
+            }
+        }
+    }
+
+    #works-drawings {
+        padding-top: 35px;
+        .works-icon i {
+            background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(255,255,0,.80) 35%, rgba(0,0,0,1) 100%);
+            box-shadow: 0 0 53px 1px #ffff00;
+        }
+        .container {
+            background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(255,255,0,.80) 35%, rgba(0,0,0,1) 100%);
+            box-shadow: 0 0 53px 1px #ffff00;
+        }
+        .works-grid {
+            img {
+                &:hover,
+                &:focus {
+                    box-shadow: 0 0 53px 1px #ffff00;
+                }
+            }
+        }
+    }
+
+    #works-paintings {
+        padding-top: 35px;
+        .works-icon i {
+            background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(255,153,0,.88) 35%, rgba(0,0,0,1) 100%);
+            box-shadow: 0 0 53px 1px #ff9900;
+        }
+        .container {
+            background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(255,153,0,.88) 35%, rgba(0,0,0,1) 100%);
+            box-shadow: 0 0 53px 1px #ff9900;
+        }
+        .works-grid {
+            img {
+                &:hover,
+                &:focus {
+                    box-shadow: 0 0 53px 1px #ff9900;
+                }
+            }
+        }
+    }
+
+    #works-music {
+        padding-top: 35px;
+        .works-icon i {
+            background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(255,0,0,.77) 35%, rgba(0,0,0,1) 100%);
+            box-shadow: 0 0 53px 1px #ff0000;
+        }
+        .container {
+            background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(255,0,0,.77) 35%, rgba(0,0,0,1) 100%);
+            box-shadow: 0 0 53px 1px #ff0000;
+        }
+        .works-grid {
+            img {
+                &:hover,
+                &:focus {
+                    box-shadow: 0 0 53px 1px #ff0000;
+                }
+            }
+        }
+    }
+
+
 }

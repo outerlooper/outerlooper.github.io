@@ -1,0 +1,19 @@
+// Outerlooper YT Jukebox
+// "MultiTube
+
+
+#jukebox {
+    background-color: rgba(255, 255, 255, .8);
+    width: 353px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    left: -353px;
+    bottom: 0;
+    z-index: 888;
+
+    #jukebox-player {
+
+    }
+}

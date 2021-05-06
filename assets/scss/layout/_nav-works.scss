@@ -4,36 +4,36 @@
     top: 135px;
     top: 33px;
     right: 0;
-    z-index: 1;
-    display: none;
+    z-index: 777;
+    //display: none;
 
     @media only screen and (min-width: 963px) {
-        top: 111px;
+        top: 44px;
     }
 
     // fdde-out mixin
     // *applied to links for keyboard nav
-    &.nav-works-top {
-        a {
-            opacity: 0;
-            animation-name: fadeOutOpacity;
-            animation-iteration-count: 1;
-            //animation-timing-function: ease-in;
-            animation-duration: 1s;
-        }
-    }
+    // &.nav-works-top {
+    //     a {
+    //         opacity: 0;
+    //         animation-name: fadeOutOpacity;
+    //         animation-iteration-count: 1;
+    //         //animation-timing-function: ease-in;
+    //         animation-duration: 1s;
+    //     }
+    // }
 
     // fade-in mixin
     // *applied to links for keyboard nav
-    &.nav-works-scroll {
-        a {
-            opacity: 1;
-            animation-name: fadeInOpacity;
-            animation-iteration-count: 1;
-            //animation-timing-function: ease-in;
-            animation-duration: 1s;
-        }
-    }
+    // &.nav-works-scroll {
+    //     a {
+    //         opacity: 1;
+    //         animation-name: fadeInOpacity;
+    //         animation-iteration-count: 1;
+    //         //animation-timing-function: ease-in;
+    //         animation-duration: 1s;
+    //     }
+    // }
 
     // flyout buttons
     // kudos: https://codesandbox.io/s/funny-chatelet-p4bji?file=/src/App.vue:499-542
@@ -41,25 +41,38 @@
         background-color: transparent;
         border-top-left-radius: 3px;
         border-bottom-left-radius: 3px;
-        color: #fff;
+        color: #777;
         display: block;
-        padding: 6px 6px 6px 12px;
-        transition: background-color 0.5s ease;
-        
+        //padding: 6px 6px 6px 12px;
+        padding: 1px;
+        //transition: background-color 0.5s ease;
+        opacity: 0;
 
         i {
-            font-size: 24px;
-            margin-right: 12px;
+            font-size: 20px;
+            margin-right: 9px;
+            border: 1px solid transparent;
+            padding: 8px;
+            border-radius: 50%;
+            width: 37px; 
+            height: 37px;
+            text-align: center;
+
+            &.fa-pencil-square,
+            &.fa-music {
+                font-size: 22px;
+            }
         }
 
         .label {
             display: inline-block;
             overflow: hidden;
+            color: #fff;
             max-width: 0;
             margin-right: 0;
             white-space: nowrap;
             vertical-align: middle;
-            border-bottom: 1px solid #fff;
+            // border-bottom: 1px solid #fff;
             text-transform: uppercase;
             font-size: .88em;
             transition: max-width 0.5s;
@@ -68,8 +81,8 @@
         .separator {
             display: inline-block;
             width: 0;
-            transition: width 0.1s;
-            transition-delay: 0.5s;
+            transition: width 0.5s;
+            //transition-delay: 0.5s;
         }
 
         &:focus {
@@ -77,23 +90,42 @@
         }
 
         &:hover,
-        &:focus {
+        &:focus,
+        &:active {
             background-color: rgba(0,0,0,0.8);
             //ackground: linear-gradient(90deg, rgba(0,0,0,0.80) 0%, rgba(255,0,255,0.35) 100%);
             background: linear-gradient(45deg, rgba(0,0,0,0.80) 0%, rgba(0,0,0,0.1) 100%);
             text-decoration: none;
             text-shadow: 1px 1px 15px magenta, 1px 1px 15px #ccc;
+            color: #fff;
+            
+            i {
+                filter: drop-shadow(-3px -3px 2px rgba(255,0,255,.69))
+                        drop-shadow(5px 5px 5px rgba(255,0,255,.69));
+                        //drop-shadow(15px 15px 15px rgba(255,0,255,.5));
+            }
 
             .label {
                 max-width: 333px;
-                padding-right: 33px;
+                padding-left: 11px;
+                padding-right: 11px;
                 transition-delay: 0.1s;
+                // text-align: right;
             }
 
             .separator {
                 width: 0.3em;
                 transition-delay: unset;
             }
+        }
+
+        &.active {
+            i {
+                background: radial-gradient(rgba(255,0,255,1),rgba(255,0,255,.53));
+                border: 1px solid magenta;
+                color: #fff;
+            }
+            
         }
     }
 }

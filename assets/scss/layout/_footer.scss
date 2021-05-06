@@ -1,5 +1,6 @@
 #footer {
     color: #fff;
+    color: #999;
     display: block;
     font-size: 0.65em;
     position: fixed;
@@ -17,15 +18,17 @@
     }
 
     a {
-        color: #fff;
+        color: #999;
         text-decoration: none;
 
         &:hover,
         &:active,
         &:focus {
-            color: magenta;
+            color: #fff;
             text-decoration: underline;
         }
+
+        
     }
 }
 

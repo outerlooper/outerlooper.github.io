@@ -4,7 +4,7 @@
     
 
     .wrapper {
-        padding-top: 33px;
+        padding-top: 53px;
         padding-bottom: 33px;
     }
 
@@ -12,6 +12,7 @@
         font-size: 35px;
         text-align: center;
         margin-top: -35px;
+        display: none;
 
         i {
             color: #fff;
@@ -26,30 +27,33 @@
     }
 
     .works-title {
-        font-size: 1.53rem;
-        font-weight: 500;
+        position: relative;
+        font-size: 53px;
+        font-weight: 900;
+        letter-spacing: 2px;
         text-align: center;
         margin-top: 12px;
+        color: transparent;
+        -webkit-text-stroke: 1px #777;
+        -webkit-box-reflect: below -20px linear-gradient(transparent,#0008);
+        
+        span {
+            opacity: 0;
+        }
+    }
+
+    .preloader {
+        margin-top: 22px;
     }
 
     .container {
-        border-radius: 11px;
-        border: 3px double white; //magenta;
-        //background-color: #ffffff;
-        background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(255,0,255,0.69) 35%, rgba(0,0,0,1) 100%);
-        box-shadow: 0 0 53px 1px #f0f;
-        margin: 0 auto;
-        padding: 44px 33px;
-        padding-top: 0;
-        //width: auto;
-        height: auto;
+        overflow: auto;
     }
 
     .works-grid {
         img {
             background: white;
             padding: 2px;
-            //border: 2px solid white; //magenta;
             transition: padding 0.3s ease;
 
             &:hover,
@@ -92,6 +96,10 @@
         }
         
     }
+
+    // #works-photography {
+    //     padding-top: 53px;
+    // }
 
     #works-web {
         padding-top: 35px;
@@ -186,4 +194,16 @@
     }
 
 
+}
+
+@keyframes animate-works-title-wave
+{
+    0%, 100%
+    {
+        clip-path: polygon(0% 48%, 13% 46%, 27% 51%, 40% 62%, 59% 67%, 80% 65%, 100% 57%, 100% 100%, 0 100%);
+    }
+    50%
+    {
+        clip-path: polygon(0 60%, 13% 62%, 28% 61%, 44% 55%, 63% 49%, 84% 45%, 100% 52%, 100% 100%, 0 100%);
+    }
 }

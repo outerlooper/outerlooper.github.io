@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>Outerlooper, Michael Cooper</title>
+    <link rel="icon" href="favicon.ico"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="theme-color" content="#000000"/>
+    <meta name="description" content="Outerlooper is a creation of Michael Gordon Cooper w/ a pinch of love and stuff"/>
+    <meta name="pinterest" content="nopin"/>
+    <link rel="apple-touch-icon" href="logo192.png"/>
+    <link rel="manifest" href="manifest.json"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet"> -->
+    <link href="assets/vendor/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/css/outerlooper.min.css" rel="stylesheet">
+    <style>
+        #header {
+            opacity: 1;
+        }
+        #nav-works a {
+            opacity: 1;
+        }
+        #audio-controller,
+        #audio-controller-icon {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <a name="top" class="top"></a>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+
+
+    <a id="audio-controller" href="#" title="" class="audio-on">
+        <i id="audio-controller-icon" class="fa fa-headphones" aria-hidden="true"></i>
+    </a>
+
+    <!-- <div class="transition__ten-bar">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+    </div> -->
+
+    <div id="orb"></div>
+    <span id="moon"></span>
+    <div class="stars"></div>
+    <div class="twinkling"></div>
+    <div class="clouds"></div>
+
+    <div id="starfield-space">
+        <div class="starfield-stars"></div>
+        <div class="starfield-stars"></div>
+        <div class="starfield-stars"></div>
+        <div class="starfield-stars"></div>
+        <div class="starfield-stars"></div>
+    </div>
+
+    <div id="app">
+
+        <header id="header" class="header-top">
+            <h1><a href="/" title="">Outerlooper</a></h1>
+            <p><span role="img" aria-label="">&#10024;</span>&nbsp; Michael Cooper</p>
+        </header>
+
+
+        <main id="main" class="main">
+
+            <a name="works"></a>
+            <div id="works">
+
+                <!-- AREA 05-->
+                <!-- <div id="area-05" class="section"></div> -->
+
+                <!-- Works: Paintings -->
+                <a name="works-paintings"></a>
+                <div id="works-paintings" class="wrapper">
+                    <div class="container">
+                        <div class="works-icon">
+                            <i class="fa fa-paint-brush" aria-hidden="true"></i> 
+                        </div>
+                        <h2 class="works-title">Paintings</h2>
+                        <div class="preloader">
+                            <i class="fa fa-spinner fa-pulse" aria-hidden="true"></i>
+                            <small>LOADING</small>
+                        </div>
+                        <div id="works-grid works-painitngs-grid" class="uk-grid-small uk-child-width-1-2 uk-child-width-1-4@s uk-child-width-1-6@m" uk-grid="masonry: true">
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </main>
+
+        
+        <nav id="nav-works" class="nav-works-top">
+            
+            <a href="#works-photography" title="" class="active">
+                <span class="label">photography</span>
+                <span class="separator"></span>
+                <i class="fa fa-camera-retro" aria-hidden="true"></i> 
+            </a>
+            <a href="#works-web" title="" class="">
+                <span class="label">web / code</span>
+                <span class="separator"></span>
+                <i class="fa fa-code" aria-hidden="true"></i> 
+            </a>
+            <a href="#works-design" title="" class="">
+                <span class="label">design</span>
+                <span class="separator"></span>
+                <i class="fa fa-diamond" aria-hidden="true"></i> 
+            </a>
+            <a href="#works-drawings" title="" class="">
+                <span class="label">drawings</span>
+                <span class="separator"></span>
+                <i class="fa fa-pencil-square" aria-hidden="true"></i> 
+            </a>
+            <!-- <a href="#works-paintings" title="" class="">
+                <span class="label">paintings</span>
+                <span class="separator"></span>
+                <i class="fa fa-paint-brush" aria-hidden="true"></i>  
+            </a>  -->
+            <a href="#works-music" title="" class="">
+                <span class="label">music</span>
+                <span class="separator"></span>
+                <i class="fa fa-music" aria-hidden="true"></i> 
+            </a>
+            <a href="#contacts" title="" class="">
+                <span class="label">contacts</span>
+                <span class="separator"></span>
+                <i class="fa fa-user-circle-o" aria-hidden="true"></i> 
+            </a>
+        </nav>
+
+        <footer id="footer">
+            <span role="img" aria-label="">&#10024;</span>&copy; Outerlooper
+        </footer>
+
+        <a href="/" title="Back To Top" class="back-to-top">
+            <i class="fa fa-arrow-circle-up" aria-hidden="true"></i>
+        </a>
+    </div>
+
+    
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/ScrollTrigger.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/MotionPathPlugin.min.js"></script>
+    <script src="assets/js/outerlooper.min.js"></script>
+</body>
+</html>

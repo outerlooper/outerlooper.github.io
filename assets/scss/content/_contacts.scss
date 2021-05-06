@@ -1,6 +1,7 @@
 #area-contacts {
     height: auto;
     min-height: auto;
+    padding-bottom: 53px;
     
     .contact-icon-buttons {
         a {
@@ -26,6 +27,97 @@
                 //color: magenta;
                 text-decoration: none;
                 text-shadow:1px 1px 15px magenta, 1px 1px 15px #ccc;
+
+                i {
+                    filter: drop-shadow(-3px -3px 2px rgba(255,0,255,1))
+                        drop-shadow(5px 5px 5px rgba(255,0,255,.69));
+                        //drop-shadow(15px 15px 15px rgba(255,0,255,.5));
+                }
+            }
+
+            // NEON BUTTON
+
+            &.btn-neon {
+                position: relative;
+                display: inline-block;
+                padding: 10px 30px;
+                margin: 0 15px;
+                //color: #21ebff;
+                //color: magenta;
+                color: #fff;
+                text-decoration: none;
+                text-transform: uppercase;
+                //letter-spacing: 2px;
+                font-size: 18px;
+                overflow: hidden;
+                transition: 0.5s;
+                -webkit-box-reflect: below 1px linear-gradient(transparent,#0004);
+                //filter: hue-rotate(270deg);
+
+                margin-bottom: 44px;
+            
+                i {
+                    font-size: 20px;
+                    margin-right: 3px;
+                }
+            
+                &:hover,
+                &:active,
+                &:focus {
+                    // background: #21ebff;
+                    background: linear-gradient(45deg, rgba(128, 70, 128, 0.5), rgba(255,0,255,.88), rgba(255,0,255,.5));
+                    //color: #111111 !important;
+                    // box-shadow: 0 0 50px #213bff; // nice too
+                    // box-shadow: 0 0 50px #21ebff;
+                    box-shadow: 0 0 50px magenta;
+                    transition-delay: 0.35s;
+                }
+            
+                &::before {
+                    content: '';
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 10px;
+                    height: 10px;
+                    // border-top: 2px solid #21ebff;
+                    // border-left: 2px solid #21ebff;
+                    
+                    border-top: 2px solid #fff;
+                    border-left: 2px solid #fff;
+                    transition: 0.5s ease-in-out;
+                    transition-delay: 0s;
+                }
+            
+                &:hover::before {
+                    border-top: 2px solid magenta;
+                    border-left: 2px solid magenta;
+                    width: 100%;
+                    height: 100%;
+                }
+            
+                &::after {
+                    content: '';
+                    position: absolute;
+                    bottom: 0;
+                    right: 0;
+                    width: 10px;
+                    height: 10px;
+                    // border-bottom: 2px solid #21ebff;
+                    // border-right: 2px solid #21ebff;
+                    border-bottom: 2px solid #fff;
+                    border-right: 2px solid #fff;
+                    transition: 0.5s ease-in-out;
+                    transition-delay: 0s;
+                }
+            
+                &:hover::after {
+                    border-bottom: 2px solid magenta;
+                    border-right: 2px solid magenta;
+                    width: 100%;
+                    height: 100%;
+                    
+                }
             }
         }
     }

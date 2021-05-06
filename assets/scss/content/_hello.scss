@@ -30,9 +30,10 @@
     .quote {
         position: absolute;
         top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        // z-index: 11111111;
+        width: 100%;
+        transform: translateY(-50%);
+        //left: 50%;
+        //transform: translate(-50%, -50%);
         font-size: 1.81rem;
         padding-top: 11px;
         
@@ -46,7 +47,7 @@
         left: 50%;
         transform: translate(-50%, -50%);
         font-size: 1.11rem;
-        padding-top: 111px;
+        padding-top: 125px;
         i {
             font-style: normal;
         }

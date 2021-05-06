@@ -1,8 +1,21 @@
-@import 'section/default';
-@import 'section/crown';
-@import 'section/third-eye';
-@import 'section/throat';
-@import 'section/heart';
-@import 'section/solar-plexus';
-@import 'section/sacral';
-@import 'section/root';
+// @import 'section/default';
+// @import 'section/crown';
+// @import 'section/third-eye';
+// @import 'section/throat';
+// @import 'section/heart';
+// @import 'section/solar-plexus';
+// @import 'section/sacral';
+// @import 'section/root';
+
+.section {
+    min-height: 100vh;
+    width: 100%;
+    margin: 0;
+    //padding: 30px 0 50px 0;
+    text-align: center;
+
+    // h2 {
+    //     font-size: 3em;
+    //     font-weight: 300;
+    // }
+}

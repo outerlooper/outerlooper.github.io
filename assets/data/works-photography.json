@@ -5,7 +5,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/001_prana.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/001_prana.png",
         "image" : "assets/images/works/photography/001_prana.jpg",
         "caption" : ""
     },
@@ -15,7 +15,7 @@
         "tags" : "mypeople, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/002_mypeople.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/002_mypeople.png",
         "image" : "assets/images/works/photography/002_mypeople.jpg",
         "caption" : ""
     },
@@ -25,7 +25,7 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/003_makingrainbows.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/003_makingrainbows.png",
         "image" : "assets/images/works/photography/003_makingrainbows.jpg",
         "caption" : ""
     },
@@ -35,7 +35,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/004_cooperschurchagogo.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/004_cooperschurchagogo.png",
         "image" : "assets/images/works/photography/004_cooperschurchagogo.jpg",
         "caption" : ""
     },
@@ -45,7 +45,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/005_chasingrainbows.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/005_chasingrainbows.png",
         "image" : "assets/images/works/photography/005_chasingrainbows.jpg",
         "caption" : ""
     },
@@ -55,7 +55,7 @@
         "tags" : "mypeople, lifestyle",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/006_angelbloodsalad.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/006_angelbloodsalad.png",
         "image" : "assets/images/works/photography/006_angelbloodsalad.jpg",
         "caption" : ""
     },
@@ -65,7 +65,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/007_thegirlsintransition.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/007_thegirlsintransition.png",
         "image" : "assets/images/works/photography/007_thegirlsintransition.jpg",
         "caption" : ""
     },
@@ -75,7 +75,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/008_thanksgiving2019.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/008_thanksgiving2019.png",
         "image" : "assets/images/works/photography/008_thanksgiving2019.jpg",
         "caption" : ""
     },
@@ -85,7 +85,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/009_meandmygirlsnov2019.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/009_meandmygirlsnov2019.png",
         "image" : "assets/images/works/photography/009_meandmygirlsnov2019.jpg",
         "caption" : ""
     },
@@ -95,7 +95,7 @@
         "tags" : "",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/010_happyassets.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/010_happyassets.png",
         "image" : "assets/images/works/photography/010_happyassets.jpg",
         "caption" : ""
     },
@@ -105,7 +105,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/011_beachlove.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/011_beachlove.png",
         "image" : "assets/images/works/photography/011_beachlove.jpg",
         "caption" : ""
     },
@@ -115,7 +115,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/012_christmas2019down.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/012_christmas2019down.png",
         "image" : "assets/images/works/photography/012_christmas2019down.jpg",
         "caption" : ""
     },
@@ -125,7 +125,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/013_wokeupgoodpostchristmas2019.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/013_wokeupgoodpostchristmas2019.png",
         "image" : "assets/images/works/photography/013_wokeupgoodpostchristmas2019.jpg",
         "caption" : ""
     },
@@ -135,7 +135,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/014_happynewyear2019.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/014_happynewyear2019.png",
         "image" : "assets/images/works/photography/014_happynewyear2019.jpg",
         "caption" : ""
     },
@@ -145,7 +145,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/015_thegirlsfireplace.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/015_thegirlsfireplace.png",
         "image" : "assets/images/works/photography/015_thegirlsfireplace.jpg",
         "caption" : ""
     },
@@ -155,8 +155,8 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/016_fearies.webp",
-        "image" : "assets/images/works/photography/016_fearies.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/016_fearies.png",
+        "image" : "assets/images/works/photography/016_fearies.png",
         "caption" : ""
     },
     {
@@ -165,7 +165,7 @@
         "tags" : "mypeople, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/017_nachocheesesisters.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/017_nachocheesesisters.png",
         "image" : "assets/images/works/photography/017_nachocheesesisters.jpg",
         "caption" : ""
     },
@@ -175,7 +175,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/018_happybirthdaysissy.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/018_happybirthdaysissy.png",
         "image" : "assets/images/works/photography/018_happybirthdaysissy.jpg",
         "caption" : ""
     },
@@ -185,7 +185,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/019_seemslegit.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/019_seemslegit.png",
         "image" : "assets/images/works/photography/019_seemslegit.jpg",
         "caption" : ""
     },
@@ -195,7 +195,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/020_coopteamfaeries.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/020_coopteamfaeries.png",
         "image" : "assets/images/works/photography/020_coopteamfaeries.jpg",
         "caption" : ""
     },
@@ -205,7 +205,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/021_keelyandtony.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/021_keelyandtony.png",
         "image" : "assets/images/works/photography/021_keelyandtony.jpg",
         "caption" : ""
     },
@@ -215,7 +215,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/022_wingsareshowing.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/022_wingsareshowing.png",
         "image" : "assets/images/works/photography/022_wingsareshowing.jpg",
         "caption" : ""
     },
@@ -225,7 +225,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/023_heymikey.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/023_heymikey.png",
         "image" : "assets/images/works/photography/023_heymikey.jpg",
         "caption" : ""
     },
@@ -235,7 +235,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/024_frameit.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/024_frameit.png",
         "image" : "assets/images/works/photography/024_frameit.jpg",
         "caption" : ""
     },
@@ -245,7 +245,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/025_rocktheshades.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/025_rocktheshades.png",
         "image" : "assets/images/works/photography/025_rocktheshades.jpg",
         "caption" : ""
     },
@@ -255,7 +255,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/026_featherly.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/026_featherly.png",
         "image" : "assets/images/works/photography/026_featherly.jpg",
         "caption" : ""
     },
@@ -265,7 +265,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/027_bestbookstoredayever.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/027_bestbookstoredayever.png",
         "image" : "assets/images/works/photography/027_bestbookstoredayever.jpg",
         "caption" : ""
     },
@@ -275,7 +275,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/028_smoochers.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/028_smoochers.png",
         "image" : "assets/images/works/photography/028_smoochers.jpg",
         "caption" : ""
     },
@@ -285,7 +285,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/029_lightwork.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/029_lightwork.png",
         "image" : "assets/images/works/photography/029_lightwork.jpg",
         "caption" : ""
     },
@@ -295,7 +295,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/030_lightwork.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/030_lightwork.png",
         "image" : "assets/images/works/photography/030_lightwork.jpg",
         "caption" : ""
     },
@@ -305,7 +305,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/031_wingwoman.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/031_wingwoman.png",
         "image" : "assets/images/works/photography/031_wingwoman.jpg",
         "caption" : ""
     },
@@ -315,7 +315,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/032_faeriefamily.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/032_faeriefamily.png",
         "image" : "assets/images/works/photography/032_faeriefamily.jpg",
         "caption" : ""
     },
@@ -325,7 +325,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/033_iceetime.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/033_iceetime.png",
         "image" : "assets/images/works/photography/033_iceetime.jpg",
         "caption" : ""
     },
@@ -335,7 +335,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/034_candygirls.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/034_candygirls.png",
         "image" : "assets/images/works/photography/034_candygirls.jpg",
         "caption" : ""
     },
@@ -345,7 +345,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/035_sistersnugglers.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/035_sistersnugglers.png",
         "image" : "assets/images/works/photography/035_sistersnugglers.jpg",
         "caption" : ""
     },
@@ -355,7 +355,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/036_sistersnugglers2.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/036_sistersnugglers2.png",
         "image" : "assets/images/works/photography/036_sistersnugglers2.jpg",
         "caption" : ""
     },
@@ -365,7 +365,7 @@
         "tags" : "art, works, drawings",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/037_sketchnotes_2020-03-12.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/037_sketchnotes_2020-03-12.png",
         "image" : "assets/images/works/photography/037_sketchnotes_2020-03-12.jpg",
         "caption" : ""
     },
@@ -375,7 +375,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/038_ourownthememusic.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/038_ourownthememusic.png",
         "image" : "assets/images/works/photography/038_ourownthememusic.jpg",
         "caption" : ""
     },
@@ -385,7 +385,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/039_turtlehugs.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/039_turtlehugs.png",
         "image" : "assets/images/works/photography/039_turtlehugs.jpg",
         "caption" : ""
     },
@@ -395,7 +395,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/040_thestruggleisreal.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/040_thestruggleisreal.png",
         "image" : "assets/images/works/photography/040_thestruggleisreal.jpg",
         "caption" : ""
     },
@@ -405,7 +405,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/041_busylivin.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/041_busylivin.png",
         "image" : "assets/images/works/photography/041_busylivin.jpg",
         "caption" : ""
     },
@@ -415,7 +415,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/042_tower_2020-03-17.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/042_tower_2020-03-17.png",
         "image" : "assets/images/works/photography/042_tower_2020-03-17.jpg",
         "caption" : "Make a Wish"
     },
@@ -425,7 +425,7 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/043_lunchwithlivi.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/043_lunchwithlivi.png",
         "image" : "assets/images/works/photography/043_lunchwithlivi.jpg",
         "caption" : ""
     },
@@ -435,7 +435,7 @@
         "tags" : "lifestyle",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/044_meditation.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/044_meditation.png",
         "image" : "assets/images/works/photography/044_meditation.jpg",
         "caption" : "'Do you meditate?' is the new, 'Come here often?"
     },
@@ -445,7 +445,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/045_covergirl.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/045_covergirl.png",
         "image" : "assets/images/works/photography/045_covergirl.jpg",
         "caption" : ""
     },
@@ -455,7 +455,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/046_tower_2020-03-22.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/046_tower_2020-03-22.png",
         "image" : "assets/images/works/photography/046_tower_2020-03-22.jpg",
         "caption" : ""
     },
@@ -465,7 +465,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/047_tower_2020-03-23.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/047_tower_2020-03-23.png",
         "image" : "assets/images/works/photography/047_tower_2020-03-23.jpg",
         "caption" : ""
     },
@@ -475,7 +475,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/048_livisendslove.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/048_livisendslove.png",
         "image" : "assets/images/works/photography/048_livisendslove.jpg",
         "caption" : ""
     },
@@ -485,7 +485,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/049_whattheduck.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/049_whattheduck.png",
         "image" : "assets/images/works/photography/049_whattheduck.jpg",
         "caption" : ""
     },
@@ -495,7 +495,7 @@
         "tags" : "",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/050_smilehands.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/050_smilehands.png",
         "image" : "assets/images/works/photography/050_smilehands.jpg",
         "caption" : ""
     },
@@ -505,7 +505,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/051_tower_2020-03-28.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/051_tower_2020-03-28.png",
         "image" : "assets/images/works/photography/051_tower_2020-03-28.jpg",
         "caption" : ""
     },
@@ -515,7 +515,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/052_towerseriesmention.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/052_towerseriesmention.png",
         "image" : "assets/images/works/photography/052_towerseriesmention.jpg",
         "caption" : ""
     },
@@ -525,7 +525,7 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/053_girltime.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/053_girltime.png",
         "image" : "assets/images/works/photography/053_girltime.jpg",
         "caption" : ""
     },
@@ -535,7 +535,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/054_tower_2020-03-29.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/054_tower_2020-03-29.png",
         "image" : "assets/images/works/photography/054_tower_2020-03-29.jpg",
         "caption" : ""
     },
@@ -545,7 +545,7 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/055_superheroesonduty.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/055_superheroesonduty.png",
         "image" : "assets/images/works/photography/055_superheroesonduty.jpg",
         "caption" : ""
     },
@@ -555,7 +555,7 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/056_geniekiwi.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/056_geniekiwi.png",
         "image" : "assets/images/works/photography/056_geniekiwi.jpg",
         "caption" : ""
     },
@@ -565,7 +565,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/057_tower_2020-04-01.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/057_tower_2020-04-01.png",
         "image" : "assets/images/works/photography/057_tower_2020-04-01.jpg",
         "caption" : ""
     },
@@ -575,7 +575,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/058_tower_2020-04-01b.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/058_tower_2020-04-01b.png",
         "image" : "assets/images/works/photography/058_tower_2020-04-01b.jpg",
         "caption" : ""
     },
@@ -585,7 +585,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/059_tower_2020-04-02.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/059_tower_2020-04-02.png",
         "image" : "assets/images/works/photography/059_tower_2020-04-02.jpg",
         "caption" : ""
     },
@@ -595,7 +595,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/060_tower_2020-04-03.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/060_tower_2020-04-03.png",
         "image" : "assets/images/works/photography/060_tower_2020-04-03.jpg",
         "caption" : ""
     },
@@ -605,7 +605,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/061_tower_2020-04-04.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/061_tower_2020-04-04.png",
         "image" : "assets/images/works/photography/061_tower_2020-04-04.jpg",
         "caption" : ""
     },
@@ -615,7 +615,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/062_tower_2020-04-04b.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/062_tower_2020-04-04b.png",
         "image" : "assets/images/works/photography/062_tower_2020-04-04b.jpg",
         "caption" : ""
     },
@@ -625,7 +625,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/063_beach_2020-04-04.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/063_beach_2020-04-04.png",
         "image" : "assets/images/works/photography/063_beach_2020-04-04.jpg",
         "caption" : ""
     },
@@ -635,7 +635,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/064_outfitcoordinationtips.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/064_outfitcoordinationtips.png",
         "image" : "assets/images/works/photography/064_outfitcoordinationtips.jpg",
         "caption" : ""
     },
@@ -645,7 +645,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/065_keelyselfportrait_2020-04-04.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/065_keelyselfportrait_2020-04-04.png",
         "image" : "assets/images/works/photography/065_keelyselfportrait_2020-04-04.jpg",
         "caption" : ""
     },
@@ -655,7 +655,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/066_clouds_2020-04-05.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/066_clouds_2020-04-05.png",
         "image" : "assets/images/works/photography/066_clouds_2020-04-05.jpg",
         "caption" : ""
     },
@@ -665,7 +665,7 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/067_alittlepaintingfix.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/067_alittlepaintingfix.png",
         "image" : "assets/images/works/photography/067_alittlepaintingfix.jpg",
         "caption" : "Nothing a little paint(ing) won't fix."
     },
@@ -675,7 +675,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/068_tower_2020-04-06.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/068_tower_2020-04-06.png",
         "image" : "assets/images/works/photography/068_tower_2020-04-06.jpg",
         "caption" : ""
     },
@@ -685,7 +685,7 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/069_quarantinecuties.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/069_quarantinecuties.png",
         "image" : "assets/images/works/photography/069_quarantinecuties.jpg",
         "caption" : ""
     },
@@ -695,7 +695,7 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/070_thebugandi.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/070_thebugandi.png",
         "image" : "assets/images/works/photography/070_thebugandi.jpg",
         "caption" : ""
     },
@@ -705,7 +705,7 @@
         "tags" : "sonic, galveston, seawall, pleasurepier",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/071_beach_2020-04-07.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/071_beach_2020-04-07.png",
         "image" : "assets/images/works/photography/071_beach_2020-04-07.jpg",
         "caption" : ""
     },
@@ -715,7 +715,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/072_gatesofsteel.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/072_gatesofsteel.png",
         "image" : "assets/images/works/photography/072_gatesofsteel.jpg",
         "caption" : ""
     },
@@ -725,7 +725,7 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/073_easter1.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/073_easter1.png",
         "image" : "assets/images/works/photography/073_easter1.jpg",
         "caption" : ""
     },
@@ -735,7 +735,7 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/074_easter2.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/074_easter2.png",
         "image" : "assets/images/works/photography/074_easter2.jpg",
         "caption" : ""
     },
@@ -745,7 +745,7 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/075_easter3.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/075_easter3.png",
         "image" : "assets/images/works/photography/075_easter3.jpg",
         "caption" : ""
     },
@@ -755,7 +755,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/076_riseandshine.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/076_riseandshine.png",
         "image" : "assets/images/works/photography/076_riseandshine.jpg",
         "caption" : ""
     },
@@ -765,7 +765,7 @@
         "tags" : "sonic, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/077_bzzzzzz.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/077_bzzzzzz.png",
         "image" : "assets/images/works/photography/077_bzzzzzz.jpg",
         "caption" : ""
     },
@@ -775,7 +775,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/078_inflight.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/078_inflight.png",
         "image" : "assets/images/works/photography/078_inflight.jpg",
         "caption" : ""
     },
@@ -785,7 +785,7 @@
         "tags" : "sonic, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/079_secondchances.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/079_secondchances.png",
         "image" : "assets/images/works/photography/079_secondchances.jpg",
         "caption" : ""
     },
@@ -795,7 +795,7 @@
         "tags" : "texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/080_secondchancesb-1.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/080_secondchancesb-1.png",
         "image" : "assets/images/works/photography/080_secondchancesb-1.jpg",
         "caption" : ""
     },
@@ -805,7 +805,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/081_tower_2020-04-15.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/081_tower_2020-04-15.png",
         "image" : "assets/images/works/photography/081_tower_2020-04-15.jpg",
         "caption" : ""
     },
@@ -815,7 +815,7 @@
         "tags" : "mypeople, galveston, seawall, pleasurepier",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/082_roomtobreathe.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/082_roomtobreathe.png",
         "image" : "assets/images/works/photography/082_roomtobreathe.jpg",
         "caption" : ""
     },
@@ -825,7 +825,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/083_tower_2020-04-15b.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/083_tower_2020-04-15b.png",
         "image" : "assets/images/works/photography/083_tower_2020-04-15b.jpg",
         "caption" : ""
     },
@@ -835,7 +835,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/084_tower_2020-04-16.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/084_tower_2020-04-16.png",
         "image" : "assets/images/works/photography/084_tower_2020-04-16.jpg",
         "caption" : ""
     },
@@ -845,7 +845,7 @@
         "tags" : "mypeople, galveston, sewall, pleasurepier",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/085_jumpforjoy.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/085_jumpforjoy.png",
         "image" : "assets/images/works/photography/085_jumpforjoy.jpg",
         "caption" : ""
     },
@@ -855,7 +855,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/086_beach_2020-04-17.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/086_beach_2020-04-17.png",
         "image" : "assets/images/works/photography/086_beach_2020-04-17.jpg",
         "caption" : ""
     },
@@ -865,7 +865,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/087_tower_2020-04-17.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/087_tower_2020-04-17.png",
         "image" : "assets/images/works/photography/087_tower_2020-04-17.jpg",
         "caption" : ""
     },
@@ -875,7 +875,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/088_tower_2020-04-17b.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/088_tower_2020-04-17b.png",
         "image" : "assets/images/works/photography/088_tower_2020-04-17b.jpg",
         "caption" : ""
     },
@@ -885,7 +885,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/089_tower_2020-04-18.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/089_tower_2020-04-18.png",
         "image" : "assets/images/works/photography/089_tower_2020-04-18.jpg",
         "caption" : ""
     },
@@ -895,7 +895,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/090_tower_2020-04-21.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/090_tower_2020-04-21.png",
         "image" : "assets/images/works/photography/090_tower_2020-04-21.jpg",
         "caption" : ""
     },
@@ -905,8 +905,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/091_tower.webp",
-        "image" : "assets/images/works/photography/091_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/091_tower.png",
+        "image" : "assets/images/works/photography/091_tower.png",
         "caption" : ""
     },
     {
@@ -915,8 +915,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/092_tower.webp",
-        "image" : "assets/images/works/photography/092_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/092_tower.png",
+        "image" : "assets/images/works/photography/092_tower.png",
         "caption" : ""
     },
     {
@@ -925,8 +925,8 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/093_coloringoutsidethelines.webp",
-        "image" : "assets/images/works/photography/093_coloringoutsidethelines.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/093_coloringoutsidethelines.png",
+        "image" : "assets/images/works/photography/093_coloringoutsidethelines.png",
         "caption" : ""
     },
     {
@@ -935,8 +935,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/094_tower.webp",
-        "image" : "assets/images/works/photography/094_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/094_tower.png",
+        "image" : "assets/images/works/photography/094_tower.png",
         "caption" : ""
     },
     {
@@ -945,7 +945,7 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/095_swingin.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/095_swingin.png",
         "image" : "assets/images/works/photography/095_swingin.jpg",
         "caption" : ""
     },
@@ -955,8 +955,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/096_tower.webp",
-        "image" : "assets/images/works/photography/096_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/096_tower.png",
+        "image" : "assets/images/works/photography/096_tower.png",
         "caption" : ""
     },
     {
@@ -965,8 +965,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/097_tower.webp",
-        "image" : "assets/images/works/photography/097_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/097_tower.png",
+        "image" : "assets/images/works/photography/097_tower.png",
         "caption" : ""
     },
     {
@@ -975,8 +975,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/098_tower.webp",
-        "image" : "assets/images/works/photography/098_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/098_tower.png",
+        "image" : "assets/images/works/photography/098_tower.png",
         "caption" : ""
     },
     {
@@ -985,8 +985,8 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/099_glory.webp",
-        "image" : "assets/images/works/photography/099_glory.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/099_glory.png",
+        "image" : "assets/images/works/photography/099_glory.png",
         "caption" : ""
     },
     {
@@ -995,8 +995,8 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/100_underconstruction.webp",
-        "image" : "assets/images/works/photography/100_underconstruction.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/100_underconstruction.png",
+        "image" : "assets/images/works/photography/100_underconstruction.png",
         "caption" : ""
     },
     {
@@ -1005,8 +1005,8 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/101_lovely.webp",
-        "image" : "assets/images/works/photography/101_lovely.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/101_lovely.png",
+        "image" : "assets/images/works/photography/101_lovely.png",
         "caption" : ""
     },
     {
@@ -1015,8 +1015,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/102_tower.webp",
-        "image" : "assets/images/works/photography/102_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/102_tower.png",
+        "image" : "assets/images/works/photography/102_tower.png",
         "caption" : ""
     },
     {
@@ -1025,8 +1025,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/103_tower.webp",
-        "image" : "assets/images/works/photography/103_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/103_tower.png",
+        "image" : "assets/images/works/photography/103_tower.png",
         "caption" : ""
     },
     {
@@ -1035,8 +1035,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/104_tower.webp",
-        "image" : "assets/images/works/photography/104_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/104_tower.png",
+        "image" : "assets/images/works/photography/104_tower.png",
         "caption" : ""
     },
     {
@@ -1045,8 +1045,8 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/105_mysticskies.webp",
-        "image" : "assets/images/works/photography/105_mysticskies.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/105_mysticskies.png",
+        "image" : "assets/images/works/photography/105_mysticskies.png",
         "caption" : ""
     },
     {
@@ -1055,8 +1055,8 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/106_mysticskies.webp",
-        "image" : "assets/images/works/photography/106_mysticskies.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/106_mysticskies.png",
+        "image" : "assets/images/works/photography/106_mysticskies.png",
         "caption" : ""
     },
     {
@@ -1065,8 +1065,8 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/107_mysticskies.webp",
-        "image" : "assets/images/works/photography/107_mysticskies.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/107_mysticskies.png",
+        "image" : "assets/images/works/photography/107_mysticskies.png",
         "caption" : ""
     },
     {
@@ -1075,8 +1075,8 @@
         "tags" : "sonic, galveston, seawall, pleasurepier",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/108_mysticskies.webp",
-        "image" : "assets/images/works/photography/108_mysticskies.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/108_mysticskies.png",
+        "image" : "assets/images/works/photography/108_mysticskies.png",
         "caption" : ""
     },
     {
@@ -1085,8 +1085,8 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/109_lovelyclouds.webp",
-        "image" : "assets/images/works/photography/109_lovelyclouds.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/109_lovelyclouds.png",
+        "image" : "assets/images/works/photography/109_lovelyclouds.png",
         "caption" : ""
     },
     {
@@ -1095,8 +1095,8 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/110_broadway.webp",
-        "image" : "assets/images/works/photography/110_broadway.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/110_broadway.png",
+        "image" : "assets/images/works/photography/110_broadway.png",
         "caption" : ""
     },
     {
@@ -1105,8 +1105,8 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/111_birderseyeview.webp",
-        "image" : "assets/images/works/photography/111_birderseyeview.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/111_birderseyeview.png",
+        "image" : "assets/images/works/photography/111_birderseyeview.png",
         "caption" : ""
     },
     {
@@ -1115,7 +1115,7 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/112_Snugglin.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/112_Snugglin.png",
         "image" : "assets/images/works/photography/112_Snugglin.jpg",
         "caption" : ""
     },
@@ -1125,7 +1125,7 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/113_Snugglin.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/113_Snugglin.png",
         "image" : "assets/images/works/photography/113_Snugglin.jpg",
         "caption" : ""
     },
@@ -1135,8 +1135,8 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/114_islandlife.webp",
-        "image" : "assets/images/works/photography/114_islandlife.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/114_islandlife.png",
+        "image" : "assets/images/works/photography/114_islandlife.png",
         "caption" : ""
     },
     {
@@ -1145,7 +1145,7 @@
         "tags" : "mypeople, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/115_butterflies.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/115_butterflies.png",
         "image" : "assets/images/works/photography/115_butterflies.jpg",
         "caption" : ""
     },
@@ -1155,7 +1155,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/116_lookoutworld.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/116_lookoutworld.png",
         "image" : "assets/images/works/photography/116_lookoutworld.jpg",
         "caption" : ""
     },
@@ -1165,8 +1165,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/117_tower.webp",
-        "image" : "assets/images/works/photography/117_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/117_tower.png",
+        "image" : "assets/images/works/photography/117_tower.png",
         "caption" : ""
     },
     {
@@ -1175,7 +1175,7 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/118_peaceistheword.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/118_peaceistheword.png",
         "image" : "assets/images/works/photography/118_peaceistheword.jpg",
         "caption" : ""
     },
@@ -1185,8 +1185,8 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/119_lovelyclouds.webp",
-        "image" : "assets/images/works/photography/119_lovelyclouds.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/119_lovelyclouds.png",
+        "image" : "assets/images/works/photography/119_lovelyclouds.png",
         "caption" : ""
     },
     {
@@ -1195,7 +1195,7 @@
         "tags" : "sonic, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/120_bigvic.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/120_bigvic.png",
         "image" : "assets/images/works/photography/120_bigvic.jpg",
         "caption" : ""
     },
@@ -1205,8 +1205,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/121_tower.webp",
-        "image" : "assets/images/works/photography/121_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/121_tower.png",
+        "image" : "assets/images/works/photography/121_tower.png",
         "caption" : ""
     },
     {
@@ -1215,7 +1215,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/122_seawall.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/122_seawall.png",
         "image" : "assets/images/works/photography/122_seawall.jpg",
         "caption" : ""
     },
@@ -1225,7 +1225,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/123_beach.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/123_beach.png",
         "image" : "assets/images/works/photography/123_beach.jpg",
         "caption" : ""
     },
@@ -1235,7 +1235,7 @@
         "tags" : "sonic, galveston, seawall, pleasurepier",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/124_seawall.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/124_seawall.png",
         "image" : "assets/images/works/photography/124_seawall.jpg",
         "caption" : ""
     },
@@ -1245,8 +1245,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/125_iceebandits.webp",
-        "image" : "assets/images/works/photography/125_iceebandits.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/125_iceebandits.png",
+        "image" : "assets/images/works/photography/125_iceebandits.png",
         "caption" : ""
     },
     {
@@ -1255,7 +1255,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/126_cheersbones.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/126_cheersbones.png",
         "image" : "assets/images/works/photography/126_cheersbones.jpg",
         "caption" : ""
     },
@@ -1265,8 +1265,8 @@
         "tags" : "mypeople, lifestyle",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/127_sacredgeometrybook.webp",
-        "image" : "assets/images/works/photography/127_sacredgeometrybook.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/127_sacredgeometrybook.png",
+        "image" : "assets/images/works/photography/127_sacredgeometrybook.png",
         "caption" : ""
     },
     {
@@ -1275,8 +1275,8 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/128_wewokeuplikethis.webp",
-        "image" : "assets/images/works/photography/128_wewokeuplikethis.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/128_wewokeuplikethis.png",
+        "image" : "assets/images/works/photography/128_wewokeuplikethis.png",
         "caption" : ""
     },
     {
@@ -1285,8 +1285,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/129_winggirls.webp",
-        "image" : "assets/images/works/photography/129_winggirls.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/129_winggirls.png",
+        "image" : "assets/images/works/photography/129_winggirls.png",
         "caption" : ""
     },
     {
@@ -1295,8 +1295,8 @@
         "tags" : "mypeople, lifestyle",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/130_thinkvibrationally.webp",
-        "image" : "assets/images/works/photography/130_thinkvibrationally.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/130_thinkvibrationally.png",
+        "image" : "assets/images/works/photography/130_thinkvibrationally.png",
         "caption" : ""
     },
     {
@@ -1305,7 +1305,7 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/131_warpaint.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/131_warpaint.png",
         "image" : "assets/images/works/photography/131_warpaint.jpg",
         "caption" : ""
     },
@@ -1315,7 +1315,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/132_birdsofafeather.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/132_birdsofafeather.png",
         "image" : "assets/images/works/photography/132_birdsofafeather.jpg",
         "caption" : ""
     },
@@ -1325,8 +1325,8 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/134_junglelife.webp",
-        "image" : "assets/images/works/photography/134_junglelife.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/134_junglelife.png",
+        "image" : "assets/images/works/photography/134_junglelife.png",
         "caption" : ""
     },
     {
@@ -1335,8 +1335,8 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/135_junglelife.webp",
-        "image" : "assets/images/works/photography/135_junglelife.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/135_junglelife.png",
+        "image" : "assets/images/works/photography/135_junglelife.png",
         "caption" : ""
     },
     {
@@ -1345,8 +1345,8 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/136_junglelife.webp",
-        "image" : "assets/images/works/photography/136_junglelife.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/136_junglelife.png",
+        "image" : "assets/images/works/photography/136_junglelife.png",
         "caption" : ""
     },
     {
@@ -1355,8 +1355,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/137_tower.webp",
-        "image" : "assets/images/works/photography/137_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/137_tower.png",
+        "image" : "assets/images/works/photography/137_tower.png",
         "caption" : ""
     },
     {
@@ -1365,8 +1365,8 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/138_magical.webp",
-        "image" : "assets/images/works/photography/138_magical.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/138_magical.png",
+        "image" : "assets/images/works/photography/138_magical.png",
         "caption" : ""
     },
     {
@@ -1375,7 +1375,7 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/139_pillowfort.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/139_pillowfort.png",
         "image" : "assets/images/works/photography/139_pillowfort.jpg",
         "caption" : ""
     },
@@ -1385,7 +1385,7 @@
         "tags" : "mypeople, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/140_tacotuesdaynight.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/140_tacotuesdaynight.png",
         "image" : "assets/images/works/photography/140_tacotuesdaynight.jpg",
         "caption" : ""
     },
@@ -1395,7 +1395,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/141_winggirls.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/141_winggirls.png",
         "image" : "assets/images/works/photography/141_winggirls.jpg",
         "caption" : ""
     },
@@ -1405,7 +1405,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/143_allthebuglove.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/143_allthebuglove.png",
         "image" : "assets/images/works/photography/143_allthebuglove.jpg",
         "caption" : ""
     },
@@ -1415,7 +1415,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/144_anniversaries.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/144_anniversaries.png",
         "image" : "assets/images/works/photography/144_anniversaries.jpg",
         "caption" : ""
     },
@@ -1425,7 +1425,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/145_girls-01.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/145_girls-01.png",
         "image" : "assets/images/works/photography/145_girls-01.jpg",
         "caption" : ""
     },
@@ -1435,7 +1435,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/146_girls-02.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/146_girls-02.png",
         "image" : "assets/images/works/photography/146_girls-02.jpg",
         "caption" : ""
     },
@@ -1445,7 +1445,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/147_girls-03.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/147_girls-03.png",
         "image" : "assets/images/works/photography/147_girls-03.jpg",
         "caption" : ""
     },
@@ -1455,8 +1455,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/148_tower.webp",
-        "image" : "assets/images/works/photography/148_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/148_tower.png",
+        "image" : "assets/images/works/photography/148_tower.png",
         "caption" : ""
     },
     {
@@ -1465,8 +1465,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/149_tower.webp",
-        "image" : "assets/images/works/photography/149_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/149_tower.png",
+        "image" : "assets/images/works/photography/149_tower.png",
         "caption" : ""
     },
     {
@@ -1475,7 +1475,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/150_tower.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/150_tower.png",
         "image" : "assets/images/works/photography/150_tower.jpg",
         "caption" : ""
     },
@@ -1485,7 +1485,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/151_wingwomen.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/151_wingwomen.png",
         "image" : "assets/images/works/photography/151_wingwomen.jpg",
         "caption" : ""
     },
@@ -1495,7 +1495,7 @@
         "tags" : "sonic, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/152_sunset.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/152_sunset.png",
         "image" : "assets/images/works/photography/152_sunset.jpg",
         "caption" : ""
     },
@@ -1505,7 +1505,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/153_sunset.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/153_sunset.png",
         "image" : "assets/images/works/photography/153_sunset.jpg",
         "caption" : ""
     },
@@ -1515,8 +1515,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/154_tower.webp",
-        "image" : "assets/images/works/photography/154_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/154_tower.png",
+        "image" : "assets/images/works/photography/154_tower.png",
         "caption" : ""
     },
     {
@@ -1525,7 +1525,7 @@
         "tags" : "sonic, nest, gavleston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/155_moonshine.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/155_moonshine.png",
         "image" : "assets/images/works/photography/155_moonshine.jpg",
         "caption" : ""
     },
@@ -1535,7 +1535,7 @@
         "tags" : "mypeople, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/156_momoandi.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/156_momoandi.png",
         "image" : "assets/images/works/photography/156_momoandi.jpg",
         "caption" : ""
     },
@@ -1545,8 +1545,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/157_tower.webp",
-        "image" : "assets/images/works/photography/157_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/157_tower.png",
+        "image" : "assets/images/works/photography/157_tower.png",
         "caption" : ""
     },
     {
@@ -1555,7 +1555,7 @@
         "tags" : "sonic, galveston, seawall, pleasurepier",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/158_sunrise.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/158_sunrise.png",
         "image" : "assets/images/works/photography/158_sunrise.jpg",
         "caption" : ""
     },
@@ -1565,7 +1565,7 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/159_keelysunicorn.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/159_keelysunicorn.png",
         "image" : "assets/images/works/photography/159_keelysunicorn.jpg",
         "caption" : ""
     },
@@ -1575,7 +1575,7 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/160_keelypic.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/160_keelypic.png",
         "image" : "assets/images/works/photography/160_keelypic.jpg",
         "caption" : ""
     },
@@ -1585,7 +1585,7 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/161_keelysbench.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/161_keelysbench.png",
         "image" : "assets/images/works/photography/161_keelysbench.jpg",
         "caption" : ""
     },
@@ -1595,8 +1595,8 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/162_lightwork.webp",
-        "image" : "assets/images/works/photography/162_lightwork.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/162_lightwork.png",
+        "image" : "assets/images/works/photography/162_lightwork.png",
         "caption" : ""
     },
     {
@@ -1605,8 +1605,8 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/163_tower.webp",
-        "image" : "assets/images/works/photography/163_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/163_tower.png",
+        "image" : "assets/images/works/photography/163_tower.png",
         "caption" : ""
     },
     {
@@ -1615,8 +1615,8 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/164_moonshine.webp",
-        "image" : "assets/images/works/photography/164_moonshine.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/164_moonshine.png",
+        "image" : "assets/images/works/photography/164_moonshine.png",
         "caption" : ""
     },
     {
@@ -1625,8 +1625,8 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/165_moonshine.webp",
-        "image" : "assets/images/works/photography/165_moonshine.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/165_moonshine.png",
+        "image" : "assets/images/works/photography/165_moonshine.png",
         "caption" : ""
     },
     {
@@ -1635,7 +1635,7 @@
         "tags" : "mypeople, nest",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/166_mermaidjeans.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/166_mermaidjeans.png",
         "image" : "assets/images/works/photography/166_mermaidjeans.jpg",
         "caption" : ""
     },
@@ -1645,8 +1645,8 @@
         "tags" : "sonic, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/167_sunset.webp",
-        "image" : "assets/images/works/photography/167_sunset.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/167_sunset.png",
+        "image" : "assets/images/works/photography/167_sunset.png",
         "caption" : ""
     },
     {
@@ -1655,8 +1655,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/168_p01.webp",
-        "image" : "assets/images/works/photography/168_p01.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/168_p01.png",
+        "image" : "assets/images/works/photography/168_p01.png",
         "caption" : ""
     },
     {
@@ -1665,8 +1665,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/169_p02.webp",
-        "image" : "assets/images/works/photography/169_p02.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/169_p02.png",
+        "image" : "assets/images/works/photography/169_p02.png",
         "caption" : ""
     },
     {
@@ -1675,8 +1675,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/170_p03.webp",
-        "image" : "assets/images/works/photography/170_p03.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/170_p03.png",
+        "image" : "assets/images/works/photography/170_p03.png",
         "caption" : ""
     },
     {
@@ -1685,8 +1685,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/171_p04.webp",
-        "image" : "assets/images/works/photography/171_p04.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/171_p04.png",
+        "image" : "assets/images/works/photography/171_p04.png",
         "caption" : ""
     },
     {
@@ -1695,8 +1695,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/172_p05.webp",
-        "image" : "assets/images/works/photography/172_p05.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/172_p05.png",
+        "image" : "assets/images/works/photography/172_p05.png",
         "caption" : ""
     },
     {
@@ -1705,8 +1705,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/173_p06.webp",
-        "image" : "assets/images/works/photography/173_p06.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/173_p06.png",
+        "image" : "assets/images/works/photography/173_p06.png",
         "caption" : ""
     },
     {
@@ -1715,8 +1715,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/174_p07.webp",
-        "image" : "assets/images/works/photography/174_p07.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/174_p07.png",
+        "image" : "assets/images/works/photography/174_p07.png",
         "caption" : ""
     },
     {
@@ -1725,8 +1725,8 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/175_sultrymoon.webp",
-        "image" : "assets/images/works/photography/175_sultrymoon.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/175_sultrymoon.png",
+        "image" : "assets/images/works/photography/175_sultrymoon.png",
         "caption" : ""
     },
     {
@@ -1735,7 +1735,7 @@
         "tags" : "tower, sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/176_tower.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/176_tower.png",
         "image" : "assets/images/works/photography/176_tower.jpg",
         "caption" : ""
     },
@@ -1745,8 +1745,8 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/177_seawall.webp",
-        "image" : "assets/images/works/photography/177_seawall.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/177_seawall.png",
+        "image" : "assets/images/works/photography/177_seawall.png",
         "caption" : ""
     },
     {
@@ -1755,8 +1755,8 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/178_satisfiedskies.webp",
-        "image" : "assets/images/works/photography/178_satisfiedskies.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/178_satisfiedskies.png",
+        "image" : "assets/images/works/photography/178_satisfiedskies.png",
         "caption" : ""
     },
     {
@@ -1765,7 +1765,7 @@
         "tags" : "tower, sonic, nest, galveston, lifestyle",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/179_cosmiccoffeebarandgym.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/179_cosmiccoffeebarandgym.png",
         "image" : "assets/images/works/photography/179_cosmiccoffeebarandgym.jpg",
         "caption" : ""
     },
@@ -1775,8 +1775,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/180_oliviasfirstday.webp",
-        "image" : "assets/images/works/photography/180_oliviasfirstday.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/180_oliviasfirstday.png",
+        "image" : "assets/images/works/photography/180_oliviasfirstday.png",
         "caption" : ""
     },
     {
@@ -1785,8 +1785,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/181_kiwituber.webp",
-        "image" : "assets/images/works/photography/181_kiwituber.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/181_kiwituber.png",
+        "image" : "assets/images/works/photography/181_kiwituber.png",
         "caption" : ""
     },
     {
@@ -1795,8 +1795,8 @@
         "tags" : "sonic, mypeople, lifestyle, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/182_FiveFiftyFive.webp",
-        "image" : "assets/images/works/photography/182_FiveFiftyFive.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/182_FiveFiftyFive.png",
+        "image" : "assets/images/works/photography/182_FiveFiftyFive.png",
         "caption" : ""
     },
     {
@@ -1805,8 +1805,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/183_UniLivi.webp",
-        "image" : "assets/images/works/photography/183_UniLivi.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/183_UniLivi.png",
+        "image" : "assets/images/works/photography/183_UniLivi.png",
         "caption" : ""
     },
     {
@@ -1815,7 +1815,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/184_grackles.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/184_grackles.png",
         "image" : "assets/images/works/photography/184_grackles.jpg",
         "caption" : "The Grackles of Galveston"
     },
@@ -1825,8 +1825,8 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/185_laluna.webp",
-        "image" : "assets/images/works/photography/185_laluna.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/185_laluna.png",
+        "image" : "assets/images/works/photography/185_laluna.png",
         "caption" : ""
     },
     {
@@ -1835,8 +1835,8 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/186_downloads.webp",
-        "image" : "assets/images/works/photography/186_downloads.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/186_downloads.png",
+        "image" : "assets/images/works/photography/186_downloads.png",
         "caption" : ""
     },
     {
@@ -1845,8 +1845,8 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/187_goodmorningbeautiful.webp",
-        "image" : "assets/images/works/photography/187_goodmorningbeautiful.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/187_goodmorningbeautiful.png",
+        "image" : "assets/images/works/photography/187_goodmorningbeautiful.png",
         "caption" : ""
     },
     {
@@ -1855,8 +1855,8 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/188_lovelymoon.webp",
-        "image" : "assets/images/works/photography/188_lovelymoon.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/188_lovelymoon.png",
+        "image" : "assets/images/works/photography/188_lovelymoon.png",
         "caption" : ""
     },
     {
@@ -1865,8 +1865,8 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/189_itsabeautifulday.webp",
-        "image" : "assets/images/works/photography/189_itsabeautifulday.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/189_itsabeautifulday.png",
+        "image" : "assets/images/works/photography/189_itsabeautifulday.png",
         "caption" : ""
     },
     {
@@ -1875,8 +1875,8 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/190_sacralmoon.webp",
-        "image" : "assets/images/works/photography/190_sacralmoon.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/190_sacralmoon.png",
+        "image" : "assets/images/works/photography/190_sacralmoon.png",
         "caption" : ""
     },
     {
@@ -1885,8 +1885,8 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/191_towermoments.webp",
-        "image" : "assets/images/works/photography/191_towermoments.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/191_towermoments.png",
+        "image" : "assets/images/works/photography/191_towermoments.png",
         "caption" : ""
     },
     {
@@ -1895,8 +1895,8 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/192_tower.webp",
-        "image" : "assets/images/works/photography/192_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/192_tower.png",
+        "image" : "assets/images/works/photography/192_tower.png",
         "caption" : ""
     },
     {
@@ -1905,7 +1905,7 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/193_feather.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/193_feather.png",
         "image" : "assets/images/works/photography/193_feather.jpg",
         "caption" : ""
     },
@@ -1915,8 +1915,8 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/194_tower.webp",
-        "image" : "assets/images/works/photography/194_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/194_tower.png",
+        "image" : "assets/images/works/photography/194_tower.png",
         "caption" : ""
     },
     {
@@ -1925,7 +1925,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/195_twinflames.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/195_twinflames.png",
         "image" : "assets/images/works/photography/195_twinflames.jpg",
         "caption" : ""
     },
@@ -1935,8 +1935,8 @@
         "tags" : "sonic, galveston, seawall, pleasurepier",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/196_pleasurepier.webp",
-        "image" : "assets/images/works/photography/196_pleasurepier.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/196_pleasurepier.png",
+        "image" : "assets/images/works/photography/196_pleasurepier.png",
         "caption" : ""
     },
     {
@@ -1945,8 +1945,8 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/197_statue.webp",
-        "image" : "assets/images/works/photography/197_statue.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/197_statue.png",
+        "image" : "assets/images/works/photography/197_statue.png",
         "caption" : ""
     },
     {
@@ -1955,8 +1955,8 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/198_tower.webp",
-        "image" : "assets/images/works/photography/198_tower.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/198_tower.png",
+        "image" : "assets/images/works/photography/198_tower.png",
         "caption" : ""
     },
     {
@@ -1965,8 +1965,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/199_clinteastwood.webp",
-        "image" : "assets/images/works/photography/199_clinteastwood.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/199_clinteastwood.png",
+        "image" : "assets/images/works/photography/199_clinteastwood.png",
         "caption" : "I am smiling, Dad ... on the inside ... like CLint Eastwood."
     },
     {
@@ -1975,7 +1975,7 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/200_momoandmomma.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/200_momoandmomma.png",
         "image" : "assets/images/works/photography/200_momoandmomma.jpg",
         "caption" : ""
     },
@@ -1985,7 +1985,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/201_invertreality.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/201_invertreality.png",
         "image" : "assets/images/works/photography/201_invertreality.jpg",
         "caption" : ""
     },
@@ -1995,7 +1995,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/202_acoolbreeze.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/202_acoolbreeze.png",
         "image" : "assets/images/works/photography/202_acoolbreeze.jpg",
         "caption" : ""
     },
@@ -2005,7 +2005,7 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/203_tower.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/203_tower.png",
         "image" : "assets/images/works/photography/203_tower.jpg",
         "caption" : ""
     },
@@ -2015,7 +2015,7 @@
         "tags" : "",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/204_djrobquest.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/204_djrobquest.png",
         "image" : "assets/images/works/photography/204_djrobquest.jpg",
         "caption" : ""
     },
@@ -2025,7 +2025,7 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/205_themusicmatters.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/205_themusicmatters.png",
         "image" : "assets/images/works/photography/205_themusicmatters.jpg",
         "caption" : ""
     },
@@ -2035,7 +2035,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/206_sacralenergy.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/206_sacralenergy.png",
         "image" : "assets/images/works/photography/206_sacralenergy.jpg",
         "caption" : ""
     },
@@ -2045,8 +2045,8 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/207_bloodmoon.webp",
-        "image" : "assets/images/works/photography/207_bloodmoon.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/207_bloodmoon.png",
+        "image" : "assets/images/works/photography/207_bloodmoon.png",
         "caption" : ""
     },
     {
@@ -2055,7 +2055,7 @@
         "tags" : "",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/208_fibonacci.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/208_fibonacci.png",
         "image" : "assets/images/works/photography/208_fibonacci.jpg",
         "caption" : ""
     },
@@ -2065,7 +2065,7 @@
         "tags" : "sonic, galveston, seawall, pleasurepier",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/209_pleasurepier.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/209_pleasurepier.png",
         "image" : "assets/images/works/photography/209_pleasurepier.jpg",
         "caption" : ""
     },
@@ -2075,8 +2075,8 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/210_merkabaonthemove.webp",
-        "image" : "assets/images/works/photography/210_merkabaonthemove.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/210_merkabaonthemove.png",
+        "image" : "assets/images/works/photography/210_merkabaonthemove.png",
         "caption" : "I can barely see the road from the heat comin' off it..."
     },
     {
@@ -2085,7 +2085,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/211_quantumsight.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/211_quantumsight.png",
         "image" : "assets/images/works/photography/211_quantumsight.jpg",
         "caption" : ""
     },
@@ -2095,8 +2095,8 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/212_sunset.webp",
-        "image" : "assets/images/works/photography/212_sunset.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/212_sunset.png",
+        "image" : "assets/images/works/photography/212_sunset.png",
         "caption" : ""
     },
     {
@@ -2105,8 +2105,8 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/213_causeway.webp",
-        "image" : "assets/images/works/photography/213_causeway.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/213_causeway.png",
+        "image" : "assets/images/works/photography/213_causeway.png",
         "caption" : ""
     },
     {
@@ -2115,8 +2115,8 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/214_therisingsun.webp",
-        "image" : "assets/images/works/photography/214_therisingsun.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/214_therisingsun.png",
+        "image" : "assets/images/works/photography/214_therisingsun.png",
         "caption" : ""
     },
     {
@@ -2125,7 +2125,7 @@
         "tags" : "sonic",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/215_eleven-eleven.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/215_eleven-eleven.png",
         "image" : "assets/images/works/photography/215_eleven-eleven.jpg",
         "caption" : ""
     },
@@ -2135,7 +2135,7 @@
         "tags" : "sonic, galveston, seawall, pleasurepier",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/217_calmrollercoaster.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/217_calmrollercoaster.png",
         "image" : "assets/images/works/photography/217_calmrollercoaster.jpg",
         "caption" : ""
     },
@@ -2145,7 +2145,7 @@
         "tags" : "sonic, nest, galveton",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/218_moonshine.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/218_moonshine.png",
         "image" : "assets/images/works/photography/218_moonshine.jpg",
         "caption" : ""
     },
@@ -2155,7 +2155,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/219_oceansize.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/219_oceansize.png",
         "image" : "assets/images/works/photography/219_oceansize.jpg",
         "caption" : ""
     },
@@ -2165,7 +2165,7 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/220_sonicsight.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/220_sonicsight.png",
         "image" : "assets/images/works/photography/220_sonicsight.jpg",
         "caption" : ""
     },
@@ -2175,7 +2175,7 @@
         "tags" : "sonic, tower, nest, gavleston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/221_tower.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/221_tower.png",
         "image" : "assets/images/works/photography/221_tower.jpg",
         "caption" : ""
     },
@@ -2185,7 +2185,7 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/222_tower.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/222_tower.png",
         "image" : "assets/images/works/photography/222_tower.jpg",
         "caption" : ""
     },
@@ -2195,7 +2195,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/223_myaimistrue.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/223_myaimistrue.png",
         "image" : "assets/images/works/photography/223_myaimistrue.jpg",
         "caption" : ""
     },
@@ -2205,7 +2205,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/224_abeingonapath.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/224_abeingonapath.png",
         "image" : "assets/images/works/photography/224_abeingonapath.jpg",
         "caption" : ""
     },
@@ -2215,7 +2215,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/225_seawallblvd.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/225_seawallblvd.png",
         "image" : "assets/images/works/photography/225_seawallblvd.jpg",
         "caption" : ""
     },
@@ -2225,7 +2225,7 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/226_tower.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/226_tower.png",
         "image" : "assets/images/works/photography/226_tower.jpg",
         "caption" : ""
     },
@@ -2235,7 +2235,7 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/227_tower.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/227_tower.png",
         "image" : "assets/images/works/photography/227_tower.jpg",
         "caption" : ""
     },
@@ -2245,7 +2245,7 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/228_islandsunset.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/228_islandsunset.png",
         "image" : "assets/images/works/photography/228_islandsunset.jpg",
         "caption" : ""
     },
@@ -2255,7 +2255,7 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/229_sonicmoon.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/229_sonicmoon.png",
         "image" : "assets/images/works/photography/229_sonicmoon.jpg",
         "caption" : ""
     },
@@ -2265,7 +2265,7 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/230_oliviasdad.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/230_oliviasdad.png",
         "image" : "assets/images/works/photography/230_oliviasdad.jpg",
         "caption" : ""
     },
@@ -2275,7 +2275,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/231_divinetiming.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/231_divinetiming.png",
         "image" : "assets/images/works/photography/231_divinetiming.jpg",
         "caption" : ""
     },
@@ -2285,7 +2285,7 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/232_glory.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/232_glory.png",
         "image" : "assets/images/works/photography/232_glory.jpg",
         "caption" : ""
     },
@@ -2295,7 +2295,7 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/233_tower.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/233_tower.png",
         "image" : "assets/images/works/photography/233_tower.jpg",
         "caption" : ""
     },
@@ -2305,8 +2305,8 @@
         "tags" : "mypeople, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/234_mypeople.webp",
-        "image" : "assets/images/works/photography/234_mypeople.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/234_mypeople.png",
+        "image" : "assets/images/works/photography/234_mypeople.png",
         "caption" : ""
     },
     {
@@ -2315,8 +2315,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/235_mypeople.webp",
-        "image" : "assets/images/works/photography/235_mypeople.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/235_mypeople.png",
+        "image" : "assets/images/works/photography/235_mypeople.png",
         "caption" : ""
     },
     {
@@ -2325,8 +2325,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/236_mypeople.webp",
-        "image" : "assets/images/works/photography/236_mypeople.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/236_mypeople.png",
+        "image" : "assets/images/works/photography/236_mypeople.png",
         "caption" : ""
     },
     {
@@ -2335,8 +2335,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/237_mypeople.webp",
-        "image" : "assets/images/works/photography/237_mypeople.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/237_mypeople.png",
+        "image" : "assets/images/works/photography/237_mypeople.png",
         "caption" : ""
     },
     {
@@ -2345,8 +2345,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/238_mypeople.webp",
-        "image" : "assets/images/works/photography/238_mypeople.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/238_mypeople.png",
+        "image" : "assets/images/works/photography/238_mypeople.png",
         "caption" : ""
     },
     {
@@ -2355,8 +2355,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/239_momoandi.webp",
-        "image" : "assets/images/works/photography/239_momoandi.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/239_momoandi.png",
+        "image" : "assets/images/works/photography/239_momoandi.png",
         "caption" : ""
     },
     {
@@ -2365,7 +2365,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/240_seawallblvd.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/240_seawallblvd.png",
         "image" : "assets/images/works/photography/240_seawallblvd.jpg",
         "caption" : ""
     },
@@ -2375,7 +2375,7 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/241_sonicsunset.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/241_sonicsunset.png",
         "image" : "assets/images/works/photography/241_sonicsunset.jpg",
         "caption" : ""
     },
@@ -2385,7 +2385,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/242_magicianenergy.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/242_magicianenergy.png",
         "image" : "assets/images/works/photography/242_magicianenergy.jpg",
         "caption" : ""
     },
@@ -2395,7 +2395,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/243_christmasstar.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/243_christmasstar.png",
         "image" : "assets/images/works/photography/243_christmasstar.jpg",
         "caption" : ""
     },
@@ -2405,8 +2405,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/244_christmasblessings.webp",
-        "image" : "assets/images/works/photography/244_christmasblessings.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/244_christmasblessings.png",
+        "image" : "assets/images/works/photography/244_christmasblessings.png",
         "caption" : ""
     },
     {
@@ -2415,7 +2415,7 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/245_achristmasstarwish.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/245_achristmasstarwish.png",
         "image" : "assets/images/works/photography/245_achristmasstarwish.jpg",
         "caption" : ""
     },
@@ -2425,8 +2425,8 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/246_believe.webp",
-        "image" : "assets/images/works/photography/246_believe.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/246_believe.png",
+        "image" : "assets/images/works/photography/246_believe.png",
         "caption" : ""
     },
     {
@@ -2435,8 +2435,8 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/247_coolchristmas.webp",
-        "image" : "assets/images/works/photography/247_coolchristmas.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/247_coolchristmas.png",
+        "image" : "assets/images/works/photography/247_coolchristmas.png",
         "caption" : ""
     },
     {
@@ -2445,7 +2445,7 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/248_jetty.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/248_jetty.png",
         "image" : "assets/images/works/photography/248_jetty.jpg",
         "caption" : ""
     },
@@ -2455,8 +2455,8 @@
         "tags" : "mypeople, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/249_lifeisartislife.webp",
-        "image" : "assets/images/works/photography/249_lifeisartislife.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/249_lifeisartislife.png",
+        "image" : "assets/images/works/photography/249_lifeisartislife.png",
         "caption" : ""
     },
     {
@@ -2465,7 +2465,7 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/250_tower.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/250_tower.png",
         "image" : "assets/images/works/photography/250_tower.jpg",
         "caption" : ""
     },
@@ -2475,8 +2475,8 @@
         "tags" : "mypeople, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/251_newyear2021.webp",
-        "image" : "assets/images/works/photography/251_newyear2021.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/251_newyear2021.png",
+        "image" : "assets/images/works/photography/251_newyear2021.png",
         "caption" : "Waking up after that last year like…"
     },
     {
@@ -2485,7 +2485,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/252_sunset.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/252_sunset.png",
         "image" : "assets/images/works/photography/252_sunset.jpg",
         "caption" : ""
     },
@@ -2495,8 +2495,8 @@
         "tags" : "mypeople, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/253_gratitude.webp",
-        "image" : "assets/images/works/photography/253_gratitude.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/253_gratitude.png",
+        "image" : "assets/images/works/photography/253_gratitude.png",
         "caption" : ""
     },
     {
@@ -2505,7 +2505,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/254_sunset.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/254_sunset.png",
         "image" : "assets/images/works/photography/254_sunset.jpg",
         "caption" : ""
     },
@@ -2515,7 +2515,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/255_iseethelightinyou.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/255_iseethelightinyou.png",
         "image" : "assets/images/works/photography/255_iseethelightinyou.jpg",
         "caption" : ""
     },
@@ -2525,7 +2525,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/256_islandsunrise.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/256_islandsunrise.png",
         "image" : "assets/images/works/photography/256_islandsunrise.jpg",
         "caption" : ""
     },
@@ -2535,7 +2535,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/257_service.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/257_service.png",
         "image" : "assets/images/works/photography/257_service.jpg",
         "caption" : ""
     },
@@ -2545,7 +2545,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/258_oceanview.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/258_oceanview.png",
         "image" : "assets/images/works/photography/258_oceanview.jpg",
         "caption" : ""
     },
@@ -2555,7 +2555,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/259_moonshine.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/259_moonshine.png",
         "image" : "assets/images/works/photography/259_moonshine.jpg",
         "caption" : ""
     },
@@ -2565,8 +2565,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/260_birthdaygirl.webp",
-        "image" : "assets/images/works/photography/260_birthdaygirl.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/260_birthdaygirl.png",
+        "image" : "assets/images/works/photography/260_birthdaygirl.png",
         "caption" : ""
     },
     {
@@ -2575,8 +2575,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/261_birthdaygirl.webp",
-        "image" : "assets/images/works/photography/261_birthdaygirl.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/261_birthdaygirl.png",
+        "image" : "assets/images/works/photography/261_birthdaygirl.png",
         "caption" : ""
     },
     {
@@ -2585,8 +2585,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/262_birthdaygang.webp",
-        "image" : "assets/images/works/photography/262_birthdaygang.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/262_birthdaygang.png",
+        "image" : "assets/images/works/photography/262_birthdaygang.png",
         "caption" : ""
     },
     {
@@ -2595,8 +2595,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/263_birthdaycandygirl.webp",
-        "image" : "assets/images/works/photography/263_birthdaycandygirl.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/263_birthdaycandygirl.png",
+        "image" : "assets/images/works/photography/263_birthdaycandygirl.png",
         "caption" : ""
     },
     {
@@ -2605,8 +2605,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/264_birthdaypartysisters.webp",
-        "image" : "assets/images/works/photography/264_birthdaypartysisters.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/264_birthdaypartysisters.png",
+        "image" : "assets/images/works/photography/264_birthdaypartysisters.png",
         "caption" : ""
     },
     {
@@ -2615,7 +2615,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/265_treespirit.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/265_treespirit.png",
         "image" : "assets/images/works/photography/265_treespirit.jpg",
         "caption" : ""
     },
@@ -2625,8 +2625,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/266_snowday.webp",
-        "image" : "assets/images/works/photography/266_snowday.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/266_snowday.png",
+        "image" : "assets/images/works/photography/266_snowday.png",
         "caption" : ""
     },
     {
@@ -2635,8 +2635,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/267_snowday.webp",
-        "image" : "assets/images/works/photography/267_snowday.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/267_snowday.png",
+        "image" : "assets/images/works/photography/267_snowday.png",
         "caption" : ""
     },
     {
@@ -2645,8 +2645,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/268_snowday.webp",
-        "image" : "assets/images/works/photography/268_snowday.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/268_snowday.png",
+        "image" : "assets/images/works/photography/268_snowday.png",
         "caption" : ""
     },
     {
@@ -2655,8 +2655,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/269_snowday.webp",
-        "image" : "assets/images/works/photography/269_snowday.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/269_snowday.png",
+        "image" : "assets/images/works/photography/269_snowday.png",
         "caption" : ""
     },
     {
@@ -2665,7 +2665,7 @@
         "tags" : "sonic, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/270_moonbeams.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/270_moonbeams.png",
         "image" : "assets/images/works/photography/270_moonbeams.jpg",
         "caption" : ""
     },
@@ -2675,7 +2675,7 @@
         "tags" : "sonic, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/271_thestarcard.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/271_thestarcard.png",
         "image" : "assets/images/works/photography/271_thestarcard.jpg",
         "caption" : ""
     },
@@ -2685,7 +2685,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/272_lightcodes.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/272_lightcodes.png",
         "image" : "assets/images/works/photography/272_lightcodes.jpg",
         "caption" : ""
     },
@@ -2695,7 +2695,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/273_bloom.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/273_bloom.png",
         "image" : "assets/images/works/photography/273_bloom.jpg",
         "caption" : ""
     },
@@ -2705,7 +2705,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/274_ourmoon.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/274_ourmoon.png",
         "image" : "assets/images/works/photography/274_ourmoon.jpg",
         "caption" : ""
     },
@@ -2715,7 +2715,7 @@
         "tags" : "sonic, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/275_sunrise.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/275_sunrise.png",
         "image" : "assets/images/works/photography/275_sunrise.jpg",
         "caption" : ""
     },
@@ -2725,7 +2725,7 @@
         "tags" : "sonic, texascity",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/275_sunset.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/275_sunset.png",
         "image" : "assets/images/works/photography/275_sunset.jpg",
         "caption" : ""
     },
@@ -2735,7 +2735,7 @@
         "tags" : "sonic, tower, nest, galveston",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/276_tower.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/276_tower.png",
         "image" : "assets/images/works/photography/276_tower.jpg",
         "caption" : ""
     },
@@ -2745,7 +2745,7 @@
         "tags" : "sonic, galveston, seawall",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/277_FivePalms.jpg",
+        "thumbnail" : "assets/images/works/photography/thumbnails/277_FivePalms.png",
         "image" : "assets/images/works/photography/277_FivePalms.jpg",
         "caption" : ""
     },
@@ -2755,8 +2755,8 @@
         "tags" : "mypeople",
         "teaser" : "",
         "description" : "",
-        "thumbnail" : "assets/images/works/photography/278_cowgirlday.webp",
-        "image" : "assets/images/works/photography/278_cowgirlday.webp",
+        "thumbnail" : "assets/images/works/photography/thumbnails/278_cowgirlday.png",
+        "image" : "assets/images/works/photography/278_cowgirlday.png",
         "caption" : ""
     }
 ]

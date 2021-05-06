@@ -51,7 +51,7 @@ function icons() {
 
 function images() {
   return gulp.src(imgSrc)
-    .pipe(imagemin())
+    //.pipe(imagemin())
     .pipe(gulp.dest(imgDest));
 }
 

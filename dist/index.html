@@ -11,23 +11,16 @@
     <link rel="apple-touch-icon" href="logo192.png"/>
     <link rel="manifest" href="manifest.json"/>
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
     <link href="assets/vendor/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/outerlooper.min.css" rel="stylesheet">
 </head>
-<body>
+<body class="pg-home">
     <a name="top" class="top"></a>
     <noscript>You need to enable JavaScript to run this app.</noscript>
 
 
     <a id="audio-controller" href="#" title="" class="audio-on">
         <i id="audio-controller-icon" class="fa fa-headphones" aria-hidden="true"></i>
-        <!-- <span class="audio-controller-dialog">
-            <span>
-                <b>Audio:</b> 
-                <strong id="audio-controller-status">ON</strong>
-            </span>
-        </span> -->
     </a>
 
     <div class="transition__ten-bar">
@@ -43,14 +36,34 @@
         <div class="bar"></div>
     </div>
 
+    <div id="orb"></div>
+    <span id="moon"></span>
+    <div class="stars"></div>
+    <div class="twinkling"></div>
+    <div class="clouds"></div>
+
+    <div id="starfield-space">
+        <div class="starfield-stars"></div>
+        <div class="starfield-stars"></div>
+        <div class="starfield-stars"></div>
+        <div class="starfield-stars"></div>
+        <div class="starfield-stars"></div>
+    </div>
+
     <div id="app">
 
         <header id="header" class="header-top">
-            <h1>Outerlooper</h1>
+            <h1><a href="/" title="">Outerlooper</a></h1>
             <p><span role="img" aria-label="">&#10024;</span>&nbsp; Michael Cooper</p>
-        </header> 
+        </header>
 
         <div id="masthead">
+            <section id="outro-outerlooper">
+                <p>Outerlooper</p>
+            </section>
+            <section id="outro-was-here">
+                <p>&nbsp;Was here&nbsp;</p>
+            </section>
             <section id="spiral">
                 <canvas id="binary-spiral"></canvas>
             </section>
@@ -1329,7 +1342,7 @@
                 <!-- AREA 01-->
                 <div id="area-01" class="section"></div>
 
-                <!-- Works: Photography 
+                <!-- Works: Photography -->
                 <a name="works-photography"></a>
                 <div id="works-photography" class="wrapper">
                     <div class="container">
@@ -1337,7 +1350,8 @@
                             <i class="fa fa-camera-retro" aria-hidden="true"></i> 
                         </div>
                         <h2 class="works-title">
-                            Photography
+                            <!-- Photography -->
+                            <span>P</span><span>h</span><span>o</span><span>t</span><span>o</span><span>g</span><span>r</span><span>a</span><span>p</span><span>h</span><span>y</span>
                         </h2>
                         <div class="preloader">
                             <i class="fa fa-spinner fa-pulse" aria-hidden="true"></i>
@@ -1349,7 +1363,7 @@
                             uk-lightbox="animation: fade;autoplay: true">
                         </div>
                     </div>
-                </div>-->
+                </div>
 
 
                 <!-- AREA 02-->
@@ -1537,9 +1551,9 @@
             <span class="anchor" id="contacts"></span>
             <div id="area-contacts" class="section">
                 <div class="contact-icon-buttons">
-                    <a href="http://burnafterliving.com" title="" data-tip="Burn After Living (Blog)">
+                    <a href="http://burnafterliving.com" class="btn-neon" title="" data-tip="Burn After Living (Blog)">
                         <i class="fa fa-wordpress" aria-hidden="true"></i>
-                        <span>&nbsp; Burn After Living</span>
+                        <span>Burn After Living</span>
                     </a>
                     <!--a href="http://outerlooper.blogspot.com/" title="" data-tip="The Drawing Board (Blog)">
                         <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
@@ -1574,37 +1588,37 @@
         
         <nav id="nav-works" class="nav-works-top">
             
-            <a href="#works-photography" title="" class="">
+            <a id="nav-works-photography" href="#works-photography" title="" class="">
                 <span class="label">photography</span>
                 <span class="separator"></span>
                 <i class="fa fa-camera-retro" aria-hidden="true"></i> 
             </a>
-            <a href="#works-web" title="" class="">
-                <span class="label">web + code</span>
+            <a id="nav-works-web" href="#works-web" title="" class="">
+                <span class="label">web / code</span>
                 <span class="separator"></span>
                 <i class="fa fa-code" aria-hidden="true"></i> 
             </a>
-            <a href="#works-design" title="" class="">
-                <span class="label">graphic design</span>
+            <a id="nav-works-design" href="#works-design" title="" class="">
+                <span class="label">design</span>
                 <span class="separator"></span>
                 <i class="fa fa-diamond" aria-hidden="true"></i> 
             </a>
-            <a href="#works-drawings" title="" class="">
-                <span class="label">drawings + doodles</span>
+            <a id="nav-works-drawings" href="#works-drawings" title="" class="">
+                <span class="label">drawings</span>
                 <span class="separator"></span>
                 <i class="fa fa-pencil-square" aria-hidden="true"></i> 
             </a>
-            <a href="#works-paintings" title="" class="">
+            <!-- <a id="nav-works-paintings" href="#works-paintings" title="" class="">
                 <span class="label">paintings</span>
                 <span class="separator"></span>
                 <i class="fa fa-paint-brush" aria-hidden="true"></i>  
-            </a> 
-            <a href="#works-music" title="" class="">
-                <span class="label">music + bands</span>
+            </a>  -->
+            <a id="nav-works-music" href="#works-music" title="" class="">
+                <span class="label">music</span>
                 <span class="separator"></span>
                 <i class="fa fa-music" aria-hidden="true"></i> 
             </a>
-            <a href="#contacts" title="" class="">
+            <a id="nav-works-contacts" href="#contacts" title="" class="">
                 <span class="label">contacts</span>
                 <span class="separator"></span>
                 <i class="fa fa-user-circle-o" aria-hidden="true"></i> 
@@ -1612,7 +1626,8 @@
         </nav>
 
         <footer id="footer">
-            <span role="img" aria-label="">&#10024;</span>&copy; Outerlooper
+            <span role="img" aria-label="">&#10024;</span>&copy;
+            <a href="/" title="">Outerlooper</a>
         </footer>
 
         <a href="/" title="Back To Top" class="back-to-top">
@@ -1620,22 +1635,6 @@
         </a>
     </div>
 
-    <div id="orb"></div>
-    <span id="moon"></span>
-    <div class="stars"></div>
-    <div class="twinkling"></div>
-    <div class="clouds"></div>
-
-    <div id="starfield-space">
-        <div class="starfield-stars"></div>
-        <div class="starfield-stars"></div>
-        <div class="starfield-stars"></div>
-        <div class="starfield-stars"></div>
-        <div class="starfield-stars"></div>
-    </div>
-
-    
-    
     <script src="https://www.youtube.com/iframe_api"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/ScrollTrigger.min.js"></script>

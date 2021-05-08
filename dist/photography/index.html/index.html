@@ -3,13 +3,13 @@
 <head>
     <meta charset="utf-8"/>
     <title>Outerlooper, Michael Cooper</title>
-    <link rel="icon" href="../favicon.ico"/>
+    <link rel="icon" href="favicon.ico"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="theme-color" content="#000000"/>
     <meta name="description" content="Outerlooper is a creation of Michael Gordon Cooper w/ a pinch of love and stuff"/>
     <meta name="pinterest" content="nopin"/>
-    <link rel="apple-touch-icon" href="../logo192.png"/>
-    <link rel="manifest" href="../manifest.json"/>
+    <link rel="apple-touch-icon" href="logo192.png"/>
+    <link rel="manifest" href="manifest.json"/>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <!-- <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet"> -->
     <link href="../assets/vendor/font-awesome.min.css" rel="stylesheet">
@@ -79,7 +79,7 @@
         }
     </style>
 </head>
-<body class="pg-about">
+<body class="pg-photography">
     <a name="top" class="top"></a>
     <noscript>You need to enable JavaScript to run this app.</noscript>
 
@@ -124,41 +124,31 @@
 
 
         <main id="main" class="main">
-            
+            <div id="works">
 
-            <!-- Works: Contacts -->
-            <div id="area-contacts" class="section">
-                <div class="contact-icon-buttons">
-                    <a href="http://burnafterliving.com" class="btn-neon" title="" data-tip="Burn After Living (Blog)">
-                        <i class="fa fa-wordpress" aria-hidden="true"></i>
-                        <span>Burn After Living</span>
-                    </a>
-                    <!--a href="http://outerlooper.blogspot.com/" title="" data-tip="The Drawing Board (Blog)">
-                        <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
-                        <span>&nbsp; Drawing Board</span>
-                    </a>-->
-                    <br />
-                    <a href="https://www.instagram.com/outerlooper/" title="" data-tip="Instagram">
-                        <i class="fa fa-instagram" aria-hidden="true"></i>
-                        <span class="sr-only">Instagram</span>
-                    </a>
-                    <a href="https://www.facebook.com/outerlooper" title="" data-tip="Facebook">
-                        <i class="fa fa-facebook" aria-hidden="true"></i>
-                        <span class="sr-only">Facebook</span>
-                    </a>
-                    <a href="https://www.youtube.com/user/outerlooper" title="" data-tip="YouTube">
-                        <i class="fa fa-youtube" aria-hidden="true"></i>
-                        <span class="sr-only">YouTube</span>
-                    </a>
-                    <a href="https://www.pinterest.com/outerlooper/" title="" data-tip="Pinterest">
-                        <i class="fa fa-pinterest" aria-hidden="true"></i>
-                        <span class="sr-only">Pinterest</span>
-                    </a>
-                    <a href="https://github.com/outerlooper" title="" data-tip="GitHub">
-                        <i class="fa fa-github" aria-hidden="true"></i>
-                        <span class="sr-only">GitHub</span>
-                    </a>
+                <!-- AREA 01-->
+                <div id="area-01" class="section"></div>
+
+                <!-- Works: Photography -->
+                <div id="works-photography" class="wrapper">
+                    <div class="container">
+                        <div class="works-icon">
+                            <i class="fa fa-camera-retro" aria-hidden="true"></i> 
+                        </div>
+                        <h2 class="works-title">
+                            <span>P</span><span>h</span><span>o</span><span>t</span><span>o</span><span>g</span><span>r</span><span>a</span><span>p</span><span>h</span><span>y</span>
+                        </h2>
+                        <div class="preloader">
+                            <i class="fa fa-spinner fa-pulse" aria-hidden="true"></i>
+                            <small>LOADING</small>
+                        </div>
+                        <div id="works-photography-grid"></div>
+                    </div>
                 </div>
+
+                <!-- AREA 02-->
+                <div id="area-02" class="section"></div>
+
             </div>
 
         </main>
@@ -166,7 +156,7 @@
         
         <nav id="nav-works" class="nav-works-top">
             
-            <a id="nav-works-photography" href="/photography/" title="" class="">
+            <a id="nav-works-photography" href="/photography/" title="" class="active">
                 <span class="label">photography</span>
                 <span class="separator"></span>
                 <i class="fa fa-camera-retro" aria-hidden="true"></i> 
@@ -196,7 +186,7 @@
                 <span class="separator"></span>
                 <i class="fa fa-music" aria-hidden="true"></i> 
             </a>
-            <a href="/about/" title="" class="active">
+            <a href="/about/" title="" class="">
                 <span class="label">about</span>
                 <span class="separator"></span>
                 <i class="fa fa-user-circle-o" aria-hidden="true"></i> 

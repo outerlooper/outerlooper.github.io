@@ -28,7 +28,7 @@
     "gulp-sourcemaps": "^3.0.0",
     "gulp-terser": "^2.0.1",
     "node-sass": "^5.0.0",
-    "postcss": "^8.2.6",
+    "postcss": "^8.2.10",
     "utf-8-validate": "^5.0.4",
     "yargs-parser": ">=13.1.2"
   }

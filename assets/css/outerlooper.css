@@ -1700,6 +1700,12 @@ body.pg-home #about .pg-title h1 {
   -webkit-box-reflect: below -21px linear-gradient(transparent, #0008);
 }
 
+@media only screen and (max-width: 639px) {
+  body.pg-home #about .pg-title h1 {
+    font-size: 35px;
+  }
+}
+
 body.pg-home #about .pg-title h1 span {
   opacity: 0;
 }
@@ -1815,6 +1821,12 @@ body.pg-home #about .position p span {
   display: block;
 }
 
+@media only screen and (max-width: 639px) {
+  body.pg-home #about .position p span {
+    display: static;
+  }
+}
+
 body.pg-home #about .position p i {
   font-style: normal;
   display: none;
@@ -1845,6 +1857,12 @@ body.pg-home #my-people .my-people-title h2 {
   color: transparent;
   -webkit-text-stroke: 1px #777;
   -webkit-box-reflect: below -21px linear-gradient(transparent, #0008);
+}
+
+@media only screen and (max-width: 639px) {
+  body.pg-home #my-people .my-people-title h2 {
+    font-size: 35px;
+  }
 }
 
 body.pg-home #my-people .my-people-title h2 span {

@@ -21,7 +21,7 @@ if (document.body.classList.contains('pg-home')) {
         '6oIUdpXkQXg', // It's Already Happening But People Don't See It - Alan Watts on What Is
         'XbXqnANTJCI', // CMA - Tomorrow's Another Day
         'olOMrEiXLZs', // Andreas B. - Floating (Full Version)
-        'yTsErjyRBXI', // BEYOND: Terence Mckenna & Sam Harris & Alan Watts & Sadhguru
+        //'yTsErjyRBXI', // BEYOND: Terence Mckenna & Sam Harris & Alan Watts & Sadhguru
         'HgFksUpXVYw' // CMA - Timeless
     );
 }
@@ -1511,12 +1511,12 @@ if (document.body.classList.contains('pg-home')) {
         // scaleY: 53,
         stagger: 0.11,
         onComplete: () => {
-            VanillaTilt.init(document.querySelectorAll(".card"), {
-                max: 12,
-                speed: 353,
-                glare: true,
-                "max-glare": 1,
-            });
+            // VanillaTilt.init(document.querySelectorAll(".card"), {
+            //     max: 12,
+            //     speed: 353,
+            //     glare: true,
+            //     "max-glare": 1,
+            // });
         }
     })
     .from(".mugshot", {

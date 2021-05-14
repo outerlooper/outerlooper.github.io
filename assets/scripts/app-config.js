@@ -7,6 +7,11 @@ var go = document.querySelector("#go");
 // gsap.registerPlugin(ScrollTrigger);
 gsap.registerPlugin(MotionPathPlugin);
 
+var tlAwaken = new gsap.timeline({ paused: true});
+var tlAbout = new gsap.timeline({ paused: true});
+var tlMyPeople = new gsap.timeline({ paused: true});
+
+
 if (document.body.classList.contains('pg-home')) {
     currentPage = 'home';
     playlistTrack = 0;

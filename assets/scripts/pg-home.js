@@ -18,11 +18,6 @@ if (document.body.classList.contains('pg-home')) {
         preloader = document.querySelector(".preloader"),
         MichaelsTree = document.querySelector("#michaels-tree");
 
-    
-
-    var tlAwaken = new gsap.timeline({ paused: true});
-    var tlAbout = new gsap.timeline({ paused: true});
-    var tlMyPeople = new gsap.timeline({ paused: true});
 
     gsap.set(acorn, {
         transformOrigin: "50% 50%",

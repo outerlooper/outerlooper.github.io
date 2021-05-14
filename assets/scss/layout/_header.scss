@@ -1,7 +1,7 @@
 // Header "Sidewinder" (left handed)
 
 #header {
-    //width: 500px;
+    min-width: 500px;
     display: block;
     position: fixed;
     left: 10px;
@@ -10,6 +10,7 @@
     transform-origin: bottom left;
     text-align: left;
     text-transform: uppercase;
+    white-space: nowrap;
     z-index: 777;
     opacity: 0;
 
@@ -51,7 +52,7 @@
             margin: 0;
             padding: 0;
             -webkit-text-stroke: 0;
-            -webkit-box-reflect: below -12px linear-gradient(transparent,#0005);
+            //-webkit-box-reflect: below -12px linear-gradient(transparent,#0005);
         }
     }
 

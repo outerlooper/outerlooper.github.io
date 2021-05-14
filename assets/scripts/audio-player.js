@@ -44,6 +44,7 @@ function onYouTubeIframeAPIReady(){
         playerVars:{
             'autoplay': 0,
             'loop': 0,
+            'start': 0
         },
         events:{
             onReady:function(e){

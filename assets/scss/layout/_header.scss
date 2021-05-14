@@ -13,11 +13,6 @@
     z-index: 777;
     opacity: 0;
 
-    // -webkit-transition: top left ease;
-    //     -moz-transition: top left ease;
-    //      -o-transition: top left ease;
-    //         transition: top left ease;
-
     h1 {
         color: rgba(0,0,0,.35);
         display: inline-block;
@@ -57,11 +52,6 @@
             padding: 0;
             -webkit-text-stroke: 0;
             -webkit-box-reflect: below -12px linear-gradient(transparent,#0005);
-    
-            // -webkit-transition: font-size .5s;
-            // -moz-transition: font-size .5s;
-            //  -o-transition: font-size .5s;
-            //     transition: font-size .5s;
         }
     }
 

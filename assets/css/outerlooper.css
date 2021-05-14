@@ -210,6 +210,10 @@ a.back-to-top:hover i, a.back-to-top:focus i, a.back-to-top:active i {
   display: inline-block;
 }
 
+.overflow-hidden {
+  overflow: hidden;
+}
+
 #header {
   width: 500px;
   display: block;
@@ -885,6 +889,11 @@ a.back-to-top:hover i, a.back-to-top:focus i, a.back-to-top:active i {
   text-shadow: 1px 1px 15px magenta, 1px 1px 15px #ccc;
 }
 
+body.isMobileDevice #audio-controller,
+body.pg-home.isMobileDevice #audio-controller {
+  visibility: hidden !important;
+}
+
 #jukebox {
   background-color: rgba(255, 255, 255, 0.8);
   width: 353px;
@@ -1149,6 +1158,17 @@ a.back-to-top:hover i, a.back-to-top:focus i, a.back-to-top:active i {
   padding: 0;
   height: calc(100vh + 222px);
   opacity: .44;
+}
+
+@media only screen and (max-width: 639px) {
+  #flower-of-life {
+    width: 251%;
+    transform: translateX(-29%);
+  }
+  #flower-of-life img.flower-of-life {
+    height: auto;
+    width: 100%;
+  }
 }
 
 #ink-splash {

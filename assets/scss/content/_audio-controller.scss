@@ -48,9 +48,14 @@
         //     opacity: 1;
         // }
     }
+}
 
-    
-
-    
-    
+// Hide Audio Player on Mobile Device
+// * They won't play iframe embed --- BOO!
+// We'll figure somethign else out *kiss*
+body.isMobileDevice,
+body.pg-home.isMobileDevice {
+    #audio-controller {
+        visibility: hidden !important;
+    }
 }

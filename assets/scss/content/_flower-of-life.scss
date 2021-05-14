@@ -19,14 +19,18 @@
         padding: 0;
         height: calc(100vh + 222px);
         opacity: .44;
-        //transform-origin: 50% 50%;
-        //animation: animate-flower-of-life 11s linear infinite;
     }
 }
-// @keyframes animate-flower-of-life
-// {
-//     100%
-//     {
-//         transform: rotate(360deg);
-//     }
-// }
+
+// Mobile
+@media only screen and (max-width: 639px) {
+    #flower-of-life {
+        width: 251%;
+        transform: translateX(-29%);
+
+        img.flower-of-life {
+            height: auto;
+            width: 100%;
+        }
+    }
+}

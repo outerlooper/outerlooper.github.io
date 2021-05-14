@@ -72,6 +72,7 @@ function onYouTubeIframeAPIReady(){
                     if (playlist.length < (playlistTrack+1)) {
                         playlistTrack = 0;
                     }
+                    player.seekTo(0);
                     player.loadVideoById(playlist[playlistTrack], 0, "small");
                 }
             }
@@ -81,10 +82,11 @@ function onYouTubeIframeAPIReady(){
     go.onclick = function(e){
         e.preventDefault();
         go.remove();
-        player.playVideo(),controls(!0); // start audio
         moon.classList.remove('hide');
         orb.classList.remove('hide');
         quote.classList.remove('hide');
+        player.seekTo(0);
+        player.playVideo(),controls(!0); // start audio
         tlAwaken.play(); // start tree intro animation
     };
 

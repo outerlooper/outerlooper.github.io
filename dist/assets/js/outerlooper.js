@@ -16,10 +16,10 @@ if (document.body.classList.contains('pg-home')) {
     playlist.push(
         'b6k4OJ5aOOs', // CMA - Open Your Eyes (feat Alan Watts)
         '8D7342Nx1_s', // ELO - Tightrope
-        'Bjndmn6AH1E', // TRANSCENDENCE: Carl Sagan & Alan Watts & Mooji & Neil Degrasse Tyson
         'LnqXm8L5XcQ', // CMA - You're Free
-        '6oIUdpXkQXg', // It's Already Happening But People Don't See It - Alan Watts on What Is
         'XbXqnANTJCI', // CMA - Tomorrow's Another Day
+        'Bjndmn6AH1E', // TRANSCENDENCE: Carl Sagan & Alan Watts & Mooji & Neil Degrasse Tyson
+        '6oIUdpXkQXg', // It's Already Happening But People Don't See It - Alan Watts on What Is
         'olOMrEiXLZs', // Andreas B. - Floating (Full Version)
         //'yTsErjyRBXI', // BEYOND: Terence Mckenna & Sam Harris & Alan Watts & Sadhguru
         'HgFksUpXVYw' // CMA - Timeless
@@ -822,6 +822,7 @@ function onYouTubeIframeAPIReady(){
                     if (playlist.length < (playlistTrack+1)) {
                         playlistTrack = 0;
                     }
+                    player.seekTo(0);
                     player.loadVideoById(playlist[playlistTrack], 0, "small");
                 }
             }
@@ -831,10 +832,11 @@ function onYouTubeIframeAPIReady(){
     go.onclick = function(e){
         e.preventDefault();
         go.remove();
-        player.playVideo(),controls(!0); // start audio
         moon.classList.remove('hide');
         orb.classList.remove('hide');
         quote.classList.remove('hide');
+        player.seekTo(0);
+        player.playVideo(),controls(!0); // start audio
         tlAwaken.play(); // start tree intro animation
     };
 
@@ -1614,8 +1616,11 @@ window.addEventListener("scroll",() => {
 });
 
 // My People
-document.getElementById("btn-my-people").addEventListener("click", function() {
-    //document.getElementById("demo").innerHTML = "Hello World";
+document.getElementById("btn-my-people").addEventListener("click", function(e) {
+    e.preventDefault();
+    document.querySelector('#my-people').scrollIntoView({
+        behavior: 'smooth'
+    });
     tlMyPeople.play();
 });
 // PAGE: MUSIC

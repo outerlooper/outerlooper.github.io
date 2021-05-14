@@ -4,8 +4,8 @@
     width: 500px;
     display: block;
     position: fixed;
-    left: 0px;
-    top: -22px;
+    left: 10px;
+    top: 0px;
     transform: rotate(90deg);
     transform-origin: bottom left;
     text-align: left;
@@ -13,43 +13,24 @@
     z-index: 777;
     opacity: 0;
 
-    -webkit-transition: top left ease;
-        -moz-transition: top left ease;
-         -o-transition: top left ease;
-            transition: top left ease;
+    // -webkit-transition: top left ease;
+    //     -moz-transition: top left ease;
+    //      -o-transition: top left ease;
+    //         transition: top left ease;
 
-    h1,
-    &.header-top h1 {
-        //color: #fff;
-        //color: rgba(255,255,255,.53);
+    h1 {
         color: rgba(0,0,0,.35);
         display: inline-block;
-        font-size: 2.222rem;
+        font-size: 2.639rem; 
         line-height: normal;
         margin: 0 11px 0 0;
         padding: 0;
-
         -webkit-text-stroke: 1px #fff;
         -webkit-box-reflect: below -18px linear-gradient(transparent,#0005);
-
-        // -webkit-transition: font-size .5s;
-        // -moz-transition: font-size .5s;
-        //  -o-transition: font-size .5s;
         transition: .5s;
 
-        // &::before {
-        //     content: 'Outerlooper';
-        //     display: block;
-        //     position: absolute;
-        //     top: 0;
-        //     left: 0;
-        //     width: 100%;
-        //     height: 100%;
-        //     color: #111;
-        //     animation: animate-header-logo-wave 8s ease-in-out infinite;
-        // }
-
         a {
+            display: inline-block;
             text-decoration: none;
             color: rgba(0,0,0,.35);
             -webkit-text-stroke: 1px #fff;
@@ -66,95 +47,38 @@
                         //drop-shadow(15px 15px 15px rgba(255,0,255,.5));
             }
         }
-    }
 
-    p,
-    &.header-top p {
-        color: #777;
-        display: inline-block;
-        font-size: .888rem;
-        line-height: normal;
-        margin: 0;
-        padding: 0;
-        //display: none;
-        -webkit-box-reflect: below -12px linear-gradient(transparent,#0005);
-
-        -webkit-transition: font-size .5s;
-        -moz-transition: font-size .5s;
-         -o-transition: font-size .5s;
-            transition: font-size .5s;
-    }
-
-    &.header-scroll {
-        left: 0px;
-        top: -10px;
-
-        -webkit-transition: top left ease;
-        -moz-transition: top left ease;
-         -o-transition: top left ease;
-            transition: top left ease;
-
-        h1 {
+        span {
+            color: #777;
+            display: inline-block;
             font-size: 1.111rem;
-        }
-        p {
-            font-size: .777rem;
+            line-height: normal;
+            margin: 0;
+            padding: 0;
+            -webkit-text-stroke: 0;
+            -webkit-box-reflect: below -12px linear-gradient(transparent,#0005);
+    
+            // -webkit-transition: font-size .5s;
+            // -moz-transition: font-size .5s;
+            //  -o-transition: font-size .5s;
+            //     transition: font-size .5s;
         }
     }
+
 }
 
-//@media only screen and (min-width: 963px) {
-    #header {
-        left: 10px;
-        top: 0px;
-        
 
-        h1,
-        &.header-top h1 {
-            font-size: 2.639rem; 
-        }
-
-        p,
-        &.header-top p {
-            font-size: 1.111rem;
-        }
-
-        &.header-scroll {
-            left: 8px;
-            top: 0px;
-
-            h1 {
-                font-size: 2.222rem;
-            }
-            p {
-                font-size: 1.111rem;
-            }
-        }
-    }
-//}
-
+// Mobile
 @media only screen and (max-width: 639px) {
     #header {
-        h1,
-        &.header-top h1 {
-            font-size: 2.153rem; 
-        }
-        p,
-        &.header-top p,
-        &.header-scroll p {
-            font-size: 0.88rem;
-        }
-    }
-}
+        left: 5px;
 
-@keyframes animate-header-logo-wave
-{
-    0%, 100%
-    {
-        clip-path: polygon(0% 48%, 13% 46%, 27% 51%, 40% 62%, 59% 67%, 80% 65%, 100% 57%, 100% 100%, 0 100%);
-    }
-    50%
-    {
-        clip-path: polygon(0 60%, 13% 62%, 28% 61%, 44% 55%, 63% 49%, 84% 45%, 100% 52%, 100% 100%, 0 100%);
+        h1 {
+            font-size: 2.153rem; 
+
+            span {
+                font-size: 0.88rem;
+            }
+        }
     }
 }

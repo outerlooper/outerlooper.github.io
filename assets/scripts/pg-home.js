@@ -605,7 +605,10 @@ window.addEventListener("scroll",() => {
 });
 
 // My People
-document.getElementById("btn-my-people").addEventListener("click", function() {
-    //document.getElementById("demo").innerHTML = "Hello World";
+document.getElementById("btn-my-people").addEventListener("click", function(e) {
+    e.preventDefault();
+    document.querySelector('#my-people').scrollIntoView({
+        behavior: 'smooth'
+    });
     tlMyPeople.play();
 });

@@ -16,10 +16,10 @@ if (document.body.classList.contains('pg-home')) {
     playlist.push(
         'b6k4OJ5aOOs', // CMA - Open Your Eyes (feat Alan Watts)
         '8D7342Nx1_s', // ELO - Tightrope
-        'Bjndmn6AH1E', // TRANSCENDENCE: Carl Sagan & Alan Watts & Mooji & Neil Degrasse Tyson
         'LnqXm8L5XcQ', // CMA - You're Free
-        '6oIUdpXkQXg', // It's Already Happening But People Don't See It - Alan Watts on What Is
         'XbXqnANTJCI', // CMA - Tomorrow's Another Day
+        'Bjndmn6AH1E', // TRANSCENDENCE: Carl Sagan & Alan Watts & Mooji & Neil Degrasse Tyson
+        '6oIUdpXkQXg', // It's Already Happening But People Don't See It - Alan Watts on What Is
         'olOMrEiXLZs', // Andreas B. - Floating (Full Version)
         //'yTsErjyRBXI', // BEYOND: Terence Mckenna & Sam Harris & Alan Watts & Sadhguru
         'HgFksUpXVYw' // CMA - Timeless

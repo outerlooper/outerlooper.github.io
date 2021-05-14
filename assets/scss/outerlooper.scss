@@ -4,13 +4,8 @@
 // https://outerlooper.github.io
 // https://github.com/outerlooper/outerlooper.github.io
 
-// UIKit
-// UIKit Docs: https://getuikit.com/docs/introduction
-// UIKit Sass: https://getuikit.com/docs/sass
-
-// App + Bootstrap v4
+// App
 @import "app-variables";
-//@import 'bootstrap/scss/bootstrap';
 @import "app-mixins";
 
 // Layout
@@ -19,13 +14,13 @@
 @import 'layout/footer';
 @import 'layout/stars-clouds';
 @import 'layout/moon';
-// @import 'layout/section';
 @import 'layout/masthead';
 @import 'layout/nav-works';
+@import 'layout/grid-masonry';
 
 // Transitions
-@import 'layout/transitions/five-bar';
-@import 'layout/transitions/ten-bar';
+@import 'transitions/five-bar';
+@import 'transitions/ten-bar';
 
 // Content
 @import 'content/audio-controller';
@@ -40,3 +35,13 @@
 @import 'content/spiral-binary';
 @import 'content/works';
 @import 'content/contacts';
+@import 'content/shake';
+
+// Pages
+@import 'pages/home';
+@import 'pages/photography';
+@import 'pages/web';
+@import 'pages/design';
+@import 'pages/drawing';
+@import 'pages/music';
+@import 'pages/about';

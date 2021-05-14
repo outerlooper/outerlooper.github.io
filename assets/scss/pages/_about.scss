@@ -1,0 +1,184 @@
+// PAGE: ABOUT
+
+body.pg-about {
+    color: #fff;
+    line-height: 1.35em;
+    text-align: center;
+
+    .card {
+        display: inline-block;
+        padding: 11px 22px;
+        //background: rgba(255,255,255,0.35);
+    }
+
+    .pg-title {
+        text-align: center;
+        
+        h1 {
+            position: relative;
+            font-size: 53px;
+            font-weight: 900;
+            letter-spacing: 2px;
+            text-align: center;
+            margin-top: 35px;
+            color: transparent;
+            -webkit-text-stroke: 1px #777;
+            -webkit-box-reflect: below 11px linear-gradient(transparent,#0008);
+            
+            span {
+                opacity: 0;
+            }
+        }
+    }
+
+    .mugshot  {
+        position: relative;
+        max-width: 125px;
+        margin: 53px auto 21px;
+
+        img {
+            border-radius: 50%;
+            border: 3px solid #fff;
+            //filter: grayscale(1) contrast(1.35);
+
+            &:hover,
+            &:focus,
+            &:active {
+                filter: none;
+                // filter: drop-shadow(-3px -3px 5px rgba(255,0,255,1))
+                //         drop-shadow(5px 5px 15px rgba(255,0,255,.88));
+                //         //drop-shadow(15px 15px 15px rgba(255,0,255,.5));
+            }
+        }
+    }
+
+    .title {
+        margin: 0 auto;
+        letter-spacing: 1.25px;
+        
+
+        h2 {
+            font-size: 27px;
+            font-weight: 400;
+            letter-spacing: 0;
+            line-height: 35px;
+            margin-bottom: 15px;
+
+            span {
+                opacity: 0;
+            }
+            
+        }
+        .career {
+            color: #999;
+            display: block;
+            text-transform: uppercase;
+            opacity: 0;
+
+            i {
+                font-style: normal;
+                display: none; // for mobile only
+            }
+        }
+        .path {
+            color: #999;
+            text-transform: uppercase;
+            opacity: 0;
+        }
+    }
+
+    .bio {
+        border-top: 1px solid rgba(255,255,255,0.35);
+        border-bottom: 1px solid rgba(255,255,255,0.35);
+        padding: 53px 0;
+        margin: 35px auto 0;
+        max-width: 538px;
+        opacity: 0;
+        
+        p {
+            font-size: 25px;
+            line-height: 35px;
+            opacity: 0;
+
+            a {
+                color: lightpink;
+                text-decoration: none;
+                border-bottom: 1px dashed #999;
+
+                &:hover,
+                &:focus,
+                &:active {
+                    border-bottom: 1px solid lightpink;
+                }
+            }
+        }
+    }
+
+    .position {
+        color: #aaa;
+        margin: 35px auto 53px;
+        opacity: 0;
+
+        h3 {
+            text-transform: uppercase;
+            letter-spacing: 1.25px;
+            margin-bottom: 15px;
+        }
+        p {
+            text-transform: uppercase;
+            font-size: 12px;
+            line-height: 18px;
+
+            span {
+                display: block;
+            }
+            i {
+                font-style: normal;
+                display: none; // for mobile only
+            }
+        }
+    }
+
+    
+
+    #my-people {
+        .my-people-title {
+            text-align: center;
+            padding: 53px 0;
+            
+            h2 {
+                position: relative;
+                font-size: 53px;
+                font-weight: 900;
+                letter-spacing: 2px;
+                text-align: center;
+                margin-top: 12px;
+                color: transparent;
+                -webkit-text-stroke: 1px #777;
+                -webkit-box-reflect: below 11px linear-gradient(transparent,#0008);
+                
+                span {
+                    opacity: 0;
+                }
+            }
+        }
+
+        .preloader {
+            margin-top: 22px;
+            opacity: 0;
+        }
+
+        #my-people-grid {
+            overflow: auto;
+        }
+    }
+
+    .contact {
+        margin: 35px auto 0;
+    }
+
+    #area-contacts {
+        margin-top: 251px;
+    }
+
+}

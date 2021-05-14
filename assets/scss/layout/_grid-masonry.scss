@@ -1,0 +1,56 @@
+// MASONRY COLCADO
+
+// Using floats
+.grid-col {
+    float: left;
+    width: 50%;
+}
+
+// 2 columns by default, hide columns 2 & 3
+.grid-col--2, .grid-col--3 { display: none }
+
+// 3 columns at medium size - 768px
+@media ( min-width: 521px ) {
+    .grid-col { width: 33.333%; }
+    .grid-col--2 { display: block; } // show column 2
+}
+
+// 4 columns at large size - 1080px*/
+@media ( min-width: 835px ) {
+    .grid-col { width: 25%; }
+    .grid-col--3 { display: block; } // show column 3
+}
+
+.grid-item-wrapper {
+    background: rgba(255,255,255,0);
+    margin: 6px 6px 2px 6px;
+    padding: 0;
+    transition: .5s ease;
+}
+.grid-item-wrapper img {
+    background: #fff;
+    border: 0;
+    padding: 0;
+    transition: .5s ease;
+}
+// .grid-item-wrapper:hover {
+//     // background: rgba(255,255,255,.35);
+//     // margin: 8px 8px 4px 8px;
+//     // padding: 4px 4px 0px 4px;
+//     //text-shadow:1px 1px 1px rgba(255,0,255,.69);//, 1px 1px 1px #ccc;
+//         // filter: drop-shadow(-3px -3px 5px rgba(255,255,255,1))
+//         //         drop-shadow(5px 5px 8px rgba(255,255,255,1));
+//         //         //drop-shadow(15px 15px 15px rgba(255,0,255,.5));
+// }
+
+// .grid-item-wrapper:hover img {
+//     padding: 8px;
+// }
+
+#works-photography-grid {
+    padding-top: 22px;
+}
+.grid-item {
+    //opacity: 0;
+    transition: .5s;
+}

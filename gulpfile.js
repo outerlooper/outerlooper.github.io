@@ -19,9 +19,7 @@ const fontSrc = './assets/fonts/**/*';
 const venSrc = './assets/vendor/**/*';
 const cssSrc = './assets/scss/**/*.scss';
 const jsSrc = [
-  //'./assets/scripts/c.js',
-  //'./assets/scripts/b.js',
-  //'./assets/scripts/a.js',
+  './assets/scripts/app-config.js',
   './assets/scripts/**/*.js'
 ];
 const pgSrc_About = './about/index.html';

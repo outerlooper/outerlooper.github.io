@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title>Outerlooper, Michael Cooper</title>
+    <title>Web :: Outerlooper, Michael Cooper</title>
     <link rel="icon" href="../favicon.ico"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="theme-color" content="#000000"/>
@@ -18,7 +18,7 @@
     <a name="top" class="top"></a>
     <noscript>You need to enable JavaScript to run this app.</noscript>
 
-
+    <div id="youtube-audio"></div>
     <a id="audio-controller" href="#" title="" class="audio-on">
         <i id="audio-controller-icon" class="fa fa-headphones" aria-hidden="true"></i>
     </a>
@@ -59,31 +59,60 @@
 
 
         <main id="main" class="main">
-            <div id="works">
 
-                <!-- AREA 01-->
-                <div id="area-01" class="section"></div>
+            <div id="web" class="wrapper">
+                <div class="container">
 
-                <!-- Works: Photography -->
-                <div id="works-photography" class="wrapper">
-                    <div class="container">
-                        <div class="works-icon">
-                            <i class="fa fa-camera-retro" aria-hidden="true"></i> 
-                        </div>
-                        <h2 class="works-title">
-                            <span>P</span><span>h</span><span>o</span><span>t</span><span>o</span><span>g</span><span>r</span><span>a</span><span>p</span><span>h</span><span>y</span>
-                        </h2>
-                        <div class="preloader">
-                            <i class="fa fa-spinner fa-pulse" aria-hidden="true"></i>
-                            <small>LOADING</small>
-                        </div>
-                        <div id="works-photography-grid"></div>
+                    <div class="pg-title">
+                        <h1>
+                            <!-- Web -->
+                            <span>W</span><span>e</span><span>b</span>
+                            <span>+</span>
+                            <span>C</span><span>d</span><span>d</span><span>e</span>
+                        </h1>
                     </div>
+                    <div class="preloader">
+                        <i class="fa fa-spinner fa-pulse" aria-hidden="true"></i>
+                        <small>LOADING</small>
+                    </div>
+                    <div id="web-grid"></div>
+
                 </div>
+            </div>
 
-                <!-- AREA 02-->
-                <div id="area-02" class="section"></div>
-
+            <!-- Contacts -->
+            <div id="contacts" class="section">
+                <div class="contact-icon-buttons">
+                    <a href="http://burnafterliving.com" class="btn-neon" title="" data-tip="Burn After Living (Blog)">
+                        <i class="fa fa-wordpress" aria-hidden="true"></i>
+                        <span>Burn After Living</span>
+                    </a>
+                    <!--a href="http://outerlooper.blogspot.com/" title="" data-tip="The Drawing Board (Blog)">
+                        <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+                        <span>&nbsp; Drawing Board</span>
+                    </a>-->
+                    <br />
+                    <a href="https://www.instagram.com/outerlooper/" title="" data-tip="Instagram">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                        <span class="sr-only">Instagram</span>
+                    </a>
+                    <a href="https://www.facebook.com/outerlooper" title="" data-tip="Facebook">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                        <span class="sr-only">Facebook</span>
+                    </a>
+                    <a href="https://www.youtube.com/user/outerlooper" title="" data-tip="YouTube">
+                        <i class="fa fa-youtube" aria-hidden="true"></i>
+                        <span class="sr-only">YouTube</span>
+                    </a>
+                    <a href="https://www.pinterest.com/outerlooper/" title="" data-tip="Pinterest">
+                        <i class="fa fa-pinterest" aria-hidden="true"></i>
+                        <span class="sr-only">Pinterest</span>
+                    </a>
+                    <a href="https://github.com/outerlooper" title="" data-tip="GitHub">
+                        <i class="fa fa-github" aria-hidden="true"></i>
+                        <span class="sr-only">GitHub</span>
+                    </a>
+                </div>
             </div>
 
         </main>
@@ -106,8 +135,8 @@
                 <span class="separator"></span>
                 <i class="fa fa-diamond" aria-hidden="true"></i> 
             </a>
-            <a href="/drawings/" title="" class="">
-                <span class="label">drawings</span>
+            <a href="/drawing/" title="" class="">
+                <span class="label">drawing</span>
                 <span class="separator"></span>
                 <i class="fa fa-pencil-square" aria-hidden="true"></i> 
             </a>
@@ -129,18 +158,16 @@
         </nav>
 
         <footer id="footer">
-            <span role="img" aria-label="">&#10024;</span>&copy; Outerlooper
+            <span role="img" aria-label="">&#10024;</span>&copy;
+            <a href="/" title="">Outerlooper</a>
         </footer>
 
-        <a href="/" title="Back To Top" class="back-to-top">
+        <a href="#top" title="Back To Top" class="back-to-top">
             <i class="fa fa-arrow-circle-up" aria-hidden="true"></i>
         </a>
     </div>
 
-    
 
-    
-    
     <script src="https://www.youtube.com/iframe_api"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.1/ScrollTrigger.min.js"></script>

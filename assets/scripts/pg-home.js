@@ -4,8 +4,8 @@ if (document.body.classList.contains('pg-home')) {
 
     // Intro Tree Animation
 
-    const main = document.getElementById("main"), 
-        masthead = document.querySelector("#masthead"),
+    const masthead = document.querySelector("#masthead"),
+        audioController = document.getElementById("audio-controller"),
         acorn = document.querySelector(".acorn"),
         tire = document.querySelector(".tireswing_tire"),
         flowers = document.querySelector("#flowers"),
@@ -15,12 +15,14 @@ if (document.body.classList.contains('pg-home')) {
         clouds = document.querySelector(".foreground-clouds"),
         flower = document.querySelector(".flower-of-life"),
         plane = document.querySelector("#paper-plane-svg"),
+        preloader = document.querySelector(".preloader"),
         MichaelsTree = document.querySelector("#michaels-tree");
 
-    // gsap.registerPlugin(ScrollTrigger);
-    gsap.registerPlugin(MotionPathPlugin);
+    
 
     var tlAwaken = new gsap.timeline({ paused: true});
+    var tlAbout = new gsap.timeline({ paused: true});
+    var tlMyPeople = new gsap.timeline({ paused: true});
 
     gsap.set(acorn, {
         transformOrigin: "50% 50%",
@@ -42,9 +44,12 @@ if (document.body.classList.contains('pg-home')) {
     // Phase I: THE MOON (FREEDOM)
 
     tlAwaken
-    .from("#audio-controller", {
+    .to("#audio-controller", {
         duration: 2.51,
-        opacity: 0
+        opacity: 0,
+        onComplete: () => {
+            audioController.classList.remove('disable-user-control')
+        }
     })
     .from(".quote i", {
         duration: 1.81,
@@ -409,24 +414,52 @@ if (document.body.classList.contains('pg-home')) {
     })
     .to(".transition__ten-bar .bar", {
         duration: 0.01,
-        zIndex: -7
+        zIndex: "-7"
     })
     .to("#outro-was-here", {
-        duration: .5,
+        duration: 1.52,
         opacity: 0
     }, "-=2.15")
     .to("#outro-outerlooper", {
-        duration: .5,
-        opacity: 0,
-        conComplete: function () {
-            main.classList.remove("hide");
-            main.setAttribute("z-index", "444");
-        }
+        duration: 2.51,
+        opacity: 0
     }, "=-2.15")
     .to("#header", {
         duration: 2.15,
-        opacity: 1
+        opacity: 1,
+        onComplete: () => {
+            main.classList.remove("hide");
+            main.setAttribute("z-index", "444");
+
+            getWorksPhotography(
+                'photography', // section
+                '../assets/data/works-photography.json', // data
+                '../assets/images/works/photography/', // image path
+                'reverse', // order
+                'sonic' // filter
+            );        
+        }
     })
+    .to("#audio-controller", {
+        duration: 2.51,
+        opacity: 1
+    });
+
+    
+    
+
+    // gsap.to(worksPhotography, {
+    //     duration: 3.53,
+    //     opacity: 1,
+    //     stagger: 0.53,
+    //     onComplete: () => {
+    //         tlAbout.play();
+    //     }
+    // });
+
+
+
+
     // .to("#nav-works a", {
     //     duration: 1.81,
     //     opacity: 1,
@@ -444,4 +477,135 @@ if (document.body.classList.contains('pg-home')) {
     //     }
     // })
 
+    // .from(".preloader", {
+    //     duration: 2.51,
+    //     opacity: 0,
+    //     onComplete: function() {
+    //         getWorks(
+    //             'photography', // section
+    //             '../assets/data/works-photography.json', // data
+    //             '../assets/images/works/photography/', // image path
+    //             'reverse', // order
+    //             'sonic' // filter
+    //         )
+    //     }
+    // })
+
+
+    // ABOUT SECTION
+    tlAbout
+    .to(".pg-title h1 span", {
+        //duration: .53,
+        opacity: 1,
+        // transformOrigin: "50% 50%",
+        // scaleX: 53,
+        // scaleY: 53,
+        stagger: 0.11,
+        onComplete: () => {
+            VanillaTilt.init(document.querySelectorAll(".card"), {
+                max: 12,
+                speed: 353,
+                glare: true,
+                "max-glare": 1,
+            });
+        }
+    })
+    .from(".mugshot", {
+        duration: 1.35,
+        opacity: 0,
+        ease: "power2.out"
+    })
+    .to(".title h2 span", {
+        duration: 1.35,
+        opacity: 1,
+        transformOrigin: "50% 50%",
+        scaleX: 53,
+        scaleY: 53,
+        stagger: 0.11,
+    })
+    .to(".title .career", {
+        duration: 2,
+        opacity: 1
+    }, "-=.53")
+    .to(".title .path", {
+        duration: 2,
+        opacity: 1
+    }, "-=.53")
+    .to(".bio", {
+        duration: 2,
+        opacity: 1
+    })
+    .to(".bio p", {
+        duration: 3.53,
+        opacity: 1
+    })
+    .to(".position", {
+        duration: 2,
+        opacity: 1, 
+        
+    });
+
+
+
+    tlMyPeople
+    .to("#my-people .my-people-title h2 span", {
+        //duration: 1.81,
+        opacity: 1,
+        // transformOrigin: "50% 50%",
+        // scaleX: 53,
+        // scaleY: 53,
+        stagger: 0.11,
+        onComplete: function () {
+            getWorksPhotography(
+                'my-people', // section
+                '../assets/data/works-photography.json', // data
+                '../assets/images/works/photography/', // image path
+                'reverse', // order
+                'mypeople' // filter
+            );  
+        }
+    });   
 }
+
+
+//setTimeout(function() {
+    //your code to be executed after 61.119 seconds
+    //sky.classList.add("active");
+    //gridItem.classList.add("shake");
+//}, 61119);
+
+
+let section_masthead = document.querySelector("#masthead");
+let section_photography = document.querySelector("#photography");
+let section_about = document.querySelector("#about");
+let section_contacts = document.querySelector("#contacts");
+
+let count_about = 0;
+
+// Scroll Spy
+window.addEventListener("scroll",() => {
+    var windo = window.pageYOffset;
+    if (section_photography.offsetTop <= windo && section_about.offsetTop > windo) {
+        //console.log("Photography");
+        //clearNavClassName();
+        //nav_photography.className = "active";
+    }
+    else if (section_about.offsetTop <= windo && section_contacts.offsetTop > windo) {
+        count_about++;
+        //console.log("About");
+        if (count_about === 1) {
+            tlAbout.play();
+        }
+        //clearNavClassName();
+        //nav_about.className = "active";
+    }
+    else {
+        //console.log("Masthead");
+    }
+});
+
+// My People
+document.getElementById("btn-my-people").addEventListener("click", function() {
+    //document.getElementById("demo").innerHTML = "Hello World";
+    tlMyPeople.play();
+});

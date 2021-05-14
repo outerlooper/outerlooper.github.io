@@ -37,8 +37,8 @@
         <div class="bar"></div>
     </div>
 
-    <div id="orb"></div>
-    <span id="moon"></span>
+    <div id="orb" class="hide"></div>
+    <span id="moon" class="hide"></span>
     <div class="stars"></div>
     <div class="twinkling"></div>
     <div class="clouds"></div>
@@ -73,7 +73,7 @@
                     <div class="well-hello">
                         <i>Hi. =)</i>
                     </div>
-                    <div class="quote">
+                    <div class="quote hide">
                         <i>"</i><i>N</i><i>o</i><i>t</i>
                         <i>a</i><i>l</i><i>l</i>
                         <i>w</i><i>h</i><i>o</i>
@@ -1324,9 +1324,103 @@
 
         <main id="main" class="main hide">
 
-            <div class="section"></div>
+            <!-- <div class="section"></div> -->
 
-            <div id="area-contacts" class="section">
+            <div id="photography" class="wrapper">
+                <div class="container">
+
+                    <!-- <div class="pg-title">
+                        <h1>
+                            <span>P</span><span>h</span><span>o</span><span>t</span><span>o</span><span>g</span><span>r</span><span>a</span><span>p</span><span>h</span><span>y</span>
+                        </h1>
+                    </div> -->
+
+                    <div class="preloader">
+                        <i class="fa fa-spinner fa-pulse" aria-hidden="true"></i>
+                        <small>LOADING</small>
+                    </div>
+                    
+                    <!-- <div class="photography-grid-wrapper"> -->
+                        <!-- <div id="photography-grid" class="grid">
+                            <div class="grid-col grid-col--1"></div>
+                            <div class="grid-col grid-col--2"></div>
+                            <div class="grid-col grid-col--3"></div>
+                            <div class="grid-col grid-col--4"></div>
+                        </div> -->
+                    <!-- </div> -->
+                    <div id="photography-grid"></div>
+                </div>
+            </div>
+
+            <div id="about" class="wrapper">
+                <div class="container">
+
+                    <div class="card">
+
+                        <div class="pg-title">
+                            <h1>
+                                <!-- About Me -->
+                                <span>A</span><span>b</span><span>o</span><span>u</span><span>t</span>
+                                <span>M</span><span>e</span>
+                            </h1>
+                        </div>
+
+                        <div class="mugshot">
+                            <img src="assets/images/personal/mikec-cropped.png" alt="">
+                        </div>
+
+                        <div class="title">
+                            <h2>
+                                <!-- Michael Gordon Cooper -->
+                                <span>M</span><span>i</span><span>c</span><span>h</span><span>a</span><span>e</span><span>l</span>
+                                <span>G</span><span>o</span><span>r</span><span>d</span><span>o</span><span>n</span>
+                                <span>C</span><span>o</span><span>o</span><span>p</span><span>e</span><span>r</span>
+                            </h2>
+                            <span class="career">Web Designer / Developer / Strategist <i>/</i> </span>
+                            <span class="path">Artist / Musician / Human / Being</span>
+                        </div>
+
+                        <div class="bio">
+                            <p>
+                                Proud Single Father of <a id="btn-my-people" href="#my-people" title="My People">The Beautiful Two</a> ... 
+                                Lover of Love ... Liver of Life ... Seeker of Truth ... 
+                                Burgeoning Creator ... 
+                                Curiouser and Curiouser ... Never Ever Bored.
+                            </p>
+                        </div>
+
+                        <div class="position">
+                            <h3 class="sr-only">Current Position</h3>
+                            <p>
+                                <span>Web Communciations and Operations Manager<i>,</i></span>
+                                <span>The University of Texas Medical Branch<i>,</i></span>
+                                <span>Galveston Island, Texas</span>
+                            </p>
+                        </div>
+
+                    </div>
+
+
+
+                    <div id="my-people">
+                        <div class="my-people-title">
+                            <h2>
+                                <!-- My People -->
+                                <span>M</span><span>y</span>
+                                <span>P</span><span>e</span><span>o</span><span>p</span><span>l</span><span>e</span>
+                            </h2>
+                        </div>
+                        <div class="preloader hide">
+                            <i class="fa fa-spinner fa-pulse" aria-hidden="true"></i>
+                            <small>LOADING</small>
+                        </div>
+                        <div id="my-people-grid"></div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div id="contacts" class="section">
                 <div class="contact-icon-buttons">
                     <a href="http://burnafterliving.com" class="btn-neon" title="" data-tip="Burn After Living (Blog)">
                         <i class="fa fa-wordpress" aria-hidden="true"></i>
@@ -1369,6 +1463,11 @@
 
         <a href="#top" title="Back To Top" class="back-to-top">
             <i class="fa fa-arrow-circle-up" aria-hidden="true"></i>
+        </a>
+
+        <a id="go" href="#">
+            <span>Follow me this way</span>
+            <i class="fa fa-play-circle" aria-hidden="true"></i>
         </a>
 
     </div>

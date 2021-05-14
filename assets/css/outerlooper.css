@@ -214,22 +214,20 @@ a.back-to-top:hover i, a.back-to-top:focus i, a.back-to-top:active i {
   width: 500px;
   display: block;
   position: fixed;
-  left: 0px;
-  top: -22px;
+  left: 10px;
+  top: 0px;
   transform: rotate(90deg);
   transform-origin: bottom left;
   text-align: left;
   text-transform: uppercase;
   z-index: 777;
   opacity: 0;
-  transition: top left ease;
 }
 
-#header h1,
-#header.header-top h1 {
+#header h1 {
   color: rgba(0, 0, 0, 0.35);
   display: inline-block;
-  font-size: 2.222rem;
+  font-size: 2.639rem;
   line-height: normal;
   margin: 0 11px 0 0;
   padding: 0;
@@ -238,8 +236,8 @@ a.back-to-top:hover i, a.back-to-top:focus i, a.back-to-top:active i {
   transition: .5s;
 }
 
-#header h1 a,
-#header.header-top h1 a {
+#header h1 a {
+  display: inline-block;
   text-decoration: none;
   color: rgba(0, 0, 0, 0.35);
   -webkit-text-stroke: 1px #fff;
@@ -247,99 +245,31 @@ a.back-to-top:hover i, a.back-to-top:focus i, a.back-to-top:active i {
   transition: 0.5s;
 }
 
-#header h1 a:hover, #header h1 a:active, #header h1 a:focus,
-#header.header-top h1 a:hover,
-#header.header-top h1 a:active,
-#header.header-top h1 a:focus {
+#header h1 a:hover, #header h1 a:active, #header h1 a:focus {
   text-decoration: none;
   filter: drop-shadow(-3px -3px 5px magenta) drop-shadow(5px 5px 10px rgba(255, 0, 255, 0.88));
 }
 
-#header p,
-#header.header-top p {
+#header h1 span {
   color: #777;
   display: inline-block;
-  font-size: .888rem;
+  font-size: 1.111rem;
   line-height: normal;
   margin: 0;
   padding: 0;
+  -webkit-text-stroke: 0;
   -webkit-box-reflect: below -12px linear-gradient(transparent, #0005);
-  transition: font-size .5s;
-}
-
-#header.header-scroll {
-  left: 0px;
-  top: -10px;
-  transition: top left ease;
-}
-
-#header.header-scroll h1 {
-  font-size: 1.111rem;
-}
-
-#header.header-scroll p {
-  font-size: .777rem;
-}
-
-#header {
-  left: 10px;
-  top: 0px;
-}
-
-#header h1,
-#header.header-top h1 {
-  font-size: 2.639rem;
-}
-
-#header p,
-#header.header-top p {
-  font-size: 1.111rem;
-}
-
-#header.header-scroll {
-  left: 8px;
-  top: 0px;
-}
-
-#header.header-scroll h1 {
-  font-size: 2.222rem;
-}
-
-#header.header-scroll p {
-  font-size: 1.111rem;
 }
 
 @media only screen and (max-width: 639px) {
-  #header h1,
-  #header.header-top h1 {
+  #header {
+    left: 5px;
+  }
+  #header h1 {
     font-size: 2.153rem;
   }
-  #header p,
-  #header.header-top p,
-  #header.header-scroll p {
+  #header h1 span {
     font-size: 0.88rem;
-  }
-}
-
-@-webkit-keyframes animate-header-logo-wave {
-  0%, 100% {
-    -webkit-clip-path: polygon(0% 48%, 13% 46%, 27% 51%, 40% 62%, 59% 67%, 80% 65%, 100% 57%, 100% 100%, 0 100%);
-            clip-path: polygon(0% 48%, 13% 46%, 27% 51%, 40% 62%, 59% 67%, 80% 65%, 100% 57%, 100% 100%, 0 100%);
-  }
-  50% {
-    -webkit-clip-path: polygon(0 60%, 13% 62%, 28% 61%, 44% 55%, 63% 49%, 84% 45%, 100% 52%, 100% 100%, 0 100%);
-            clip-path: polygon(0 60%, 13% 62%, 28% 61%, 44% 55%, 63% 49%, 84% 45%, 100% 52%, 100% 100%, 0 100%);
-  }
-}
-
-@keyframes animate-header-logo-wave {
-  0%, 100% {
-    -webkit-clip-path: polygon(0% 48%, 13% 46%, 27% 51%, 40% 62%, 59% 67%, 80% 65%, 100% 57%, 100% 100%, 0 100%);
-            clip-path: polygon(0% 48%, 13% 46%, 27% 51%, 40% 62%, 59% 67%, 80% 65%, 100% 57%, 100% 100%, 0 100%);
-  }
-  50% {
-    -webkit-clip-path: polygon(0 60%, 13% 62%, 28% 61%, 44% 55%, 63% 49%, 84% 45%, 100% 52%, 100% 100%, 0 100%);
-            clip-path: polygon(0 60%, 13% 62%, 28% 61%, 44% 55%, 63% 49%, 84% 45%, 100% 52%, 100% 100%, 0 100%);
   }
 }
 

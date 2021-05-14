@@ -95,14 +95,14 @@ if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine
     meta.setAttribute('content', 'minimal-ui, width=device-width, initial-scale=1');
     document.getElementsByTagName('head')[0].appendChild();
 
-    // Intro handling for mobile
-    document.querySelector("#go").remove();
-    document.querySelector("#moon").classList.remove('hide');
-    document.querySelector("#orb").classList.remove('hide');
-    document.querySelector(".quote").classList.remove('hide');
+    // // Intro handling for mobile
+    // document.querySelector("#go").remove();
+    // document.querySelector("#moon").classList.remove('hide');
+    // document.querySelector("#orb").classList.remove('hide');
+    // document.querySelector(".quote").classList.remove('hide');
     
-    // Autostart tree intro animation
-    tlAwaken.play(); 
+    // // Autostart tree intro animation
+    // tlAwaken.play(); 
 }
 // (function (){
 //     window.addEventListener('scroll', () => {

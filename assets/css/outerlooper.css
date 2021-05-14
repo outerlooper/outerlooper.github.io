@@ -215,7 +215,6 @@ a.back-to-top:hover i, a.back-to-top:focus i, a.back-to-top:active i {
 }
 
 #header {
-  width: 500px;
   display: block;
   position: fixed;
   left: 10px;

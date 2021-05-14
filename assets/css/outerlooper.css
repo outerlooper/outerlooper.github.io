@@ -310,6 +310,10 @@ a.back-to-top:hover i, a.back-to-top:focus i, a.back-to-top:active i {
 }
 
 @media only screen and (max-width: 639px) {
+  #header h1,
+  #header.header-top h1 {
+    font-size: 2.358rem;
+  }
   #header p,
   #header.header-top p,
   #header.header-scroll p {

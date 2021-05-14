@@ -2,6 +2,7 @@
 
 const main = document.getElementById("main");
 let currentPage = '', playlist = [], playlistTrack = 0;
+var go = document.querySelector("#go");
 
 // gsap.registerPlugin(ScrollTrigger);
 gsap.registerPlugin(MotionPathPlugin);
@@ -93,17 +94,19 @@ if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine
     // Hide buttons, keep task bar
     //https://stackoverflow.com/questions/11280826/html5-full-screen-web-apps-no-browser-bars
     //'<meta name="viewport" content="minimal-ui, width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">'
-    // var meta = document.createElement('meta');
-    // meta.setAttribute('name', 'viewport');
-    // meta.setAttribute('content', 'minimal-ui, width=device-width, initial-scale=1');
-    // document.getElementsByTagName('head')[0].appendChild();
 
+    // autoplay for mobile devices
     mobiAutoPlay();
+
+} else {
+    document.addEventListener("DOMContentLoaded", function(){
+        // show go btn when ready to party
+        go.classList.remove('hide');
+    });
 }
 
 function mobiAutoPlay() {
-    var go = document.querySelector("#go"),
-        moon = document.querySelector("#moon"),
+    var moon = document.querySelector("#moon"),
         orb = document.querySelector("#orb"),
         quote = document.querySelector(".quote");
 
@@ -119,7 +122,7 @@ function mobiAutoPlay() {
         tlAwaken.play(); 
     });
     
-}
+} 
 // (function (){
 //     window.addEventListener('scroll', () => {
 //         var header = document.getElementById('header');

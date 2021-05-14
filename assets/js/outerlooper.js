@@ -1663,6 +1663,14 @@ document.getElementById("btn-my-people").addEventListener("click", function(e) {
     });
     tlMyPeople.play();
 });
+
+// Back To Top
+document.getElementById("btn-back-to-top").addEventListener("click", function(e) {
+    e.preventDefault();
+    document.querySelector('#top').scrollIntoView({
+        behavior: 'smooth'
+    });
+});
 // PAGE: MUSIC
 
 if (document.body.classList.contains('pg-music')) {

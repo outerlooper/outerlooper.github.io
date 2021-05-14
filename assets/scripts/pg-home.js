@@ -502,12 +502,12 @@ if (document.body.classList.contains('pg-home')) {
         // scaleY: 53,
         stagger: 0.11,
         onComplete: () => {
-            VanillaTilt.init(document.querySelectorAll(".card"), {
-                max: 12,
-                speed: 353,
-                glare: true,
-                "max-glare": 1,
-            });
+            // VanillaTilt.init(document.querySelectorAll(".card"), {
+            //     max: 12,
+            //     speed: 353,
+            //     glare: true,
+            //     "max-glare": 1,
+            // });
         }
     })
     .from(".mugshot", {

@@ -21,7 +21,7 @@ if (document.body.classList.contains('pg-home')) {
         '6oIUdpXkQXg', // It's Already Happening But People Don't See It - Alan Watts on What Is
         'XbXqnANTJCI', // CMA - Tomorrow's Another Day
         'olOMrEiXLZs', // Andreas B. - Floating (Full Version)
-        'yTsErjyRBXI', // BEYOND: Terence Mckenna & Sam Harris & Alan Watts & Sadhguru
+        //'yTsErjyRBXI', // BEYOND: Terence Mckenna & Sam Harris & Alan Watts & Sadhguru
         'HgFksUpXVYw' // CMA - Timeless
     );
 }

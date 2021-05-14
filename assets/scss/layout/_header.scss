@@ -135,6 +135,10 @@
 
 @media only screen and (max-width: 639px) {
     #header {
+        h1,
+        &.header-top h1 {
+            font-size: 2.153rem; 
+        }
         p,
         &.header-top p,
         &.header-scroll p {

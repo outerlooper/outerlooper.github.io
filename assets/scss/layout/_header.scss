@@ -133,6 +133,16 @@
     }
 //}
 
+@media only screen and (max-width: 639px) {
+    #header {
+        p,
+        &.header-top p,
+        &.header-scroll p {
+            font-size: 0.88rem;
+        }
+    }
+}
+
 @keyframes animate-header-logo-wave
 {
     0%, 100%

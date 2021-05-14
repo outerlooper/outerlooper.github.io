@@ -309,6 +309,14 @@ a.back-to-top:hover i, a.back-to-top:focus i, a.back-to-top:active i {
   font-size: 1.111rem;
 }
 
+@media only screen and (max-width: 639px) {
+  #header p,
+  #header.header-top p,
+  #header.header-scroll p {
+    font-size: 0.88rem;
+  }
+}
+
 @-webkit-keyframes animate-header-logo-wave {
   0%, 100% {
     -webkit-clip-path: polygon(0% 48%, 13% 46%, 27% 51%, 40% 62%, 59% 67%, 80% 65%, 100% 57%, 100% 100%, 0 100%);
